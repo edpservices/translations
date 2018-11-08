@@ -3147,8 +3147,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
             </context-group>
           </trans-unit>
           <trans-unit id="welcomeMessageB" datatype="html">
-            <source>edpOffert- & Auftrags-Tool</source>
-            <target state="final">edpOffert- & Auftrags-Tool</target>
+            <source>edpOffert- &amp; Auftrags-Tool</source>
+            <target state="final">edpOffert- &amp; Auftrags-Tool</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">747</context>
@@ -3965,8 +3965,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
             </context-group>
           </trans-unit>
           <trans-unit id="offerAndOrder" datatype="html">
-            <source>Offert- & Auftrags-Tool</source>
-            <target state="final">Offert- & Auftrags-Tool</target>
+            <source>Offert- &amp; Auftrags-Tool</source>
+            <target state="final">Offert- &amp; Auftrags-Tool</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/shared/components/headersomedia/headersomedia.component.ts</context>
               <context context-type="linenumber">5</context>
