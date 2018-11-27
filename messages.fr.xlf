@@ -625,7 +625,7 @@
         <target state="new">Zeit</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/datumzeitauswahl/datumzeitauswahl.component.ts</context>
-          <context context-type="linenumber">19</context>
+          <context context-type="linenumber">16</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/crmplus/shared/components/cockpitnexttermin/cockpitnexttermin.component.ts</context>
@@ -653,6 +653,10 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/aschluesseldropmaterial/aschluesseldropmaterial.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/tools/crm/shared/components/aktiondropmaterial/aktiondropmaterial.component.ts</context>
           <context context-type="linenumber">2</context>
         </context-group>
       </trans-unit>
@@ -693,7 +697,7 @@
         <target state="new">Ausgabe</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/aschluesseldropmaterial/aschluesseldropmaterial.component.ts</context>
-          <context context-type="linenumber">1</context>
+          <context context-type="linenumber">8</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/suchfeld/suchfeld.component.ts</context>
@@ -717,11 +721,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/mainpanelhead/mainpanelhead.component.ts</context>
-          <context context-type="linenumber">361</context>
+          <context context-type="linenumber">371</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/allgemeineinfos/allgemeineinfos.component.ts</context>
-          <context context-type="linenumber">21</context>
+          <context context-type="linenumber">22</context>
         </context-group>
       </trans-unit>
       <trans-unit id="cancelDateA" datatype="html">
@@ -733,7 +737,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/mainpanelhead/mainpanelhead.component.ts</context>
-          <context context-type="linenumber">411</context>
+          <context context-type="linenumber">429</context>
         </context-group>
       </trans-unit>
       <trans-unit id="cancelDateB" datatype="html">
@@ -745,7 +749,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/mainpanelhead/mainpanelhead.component.ts</context>
-          <context context-type="linenumber">411</context>
+          <context context-type="linenumber">429</context>
         </context-group>
       </trans-unit>
       <trans-unit id="dateCanceled" datatype="html">
@@ -757,7 +761,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/mainpanelhead/mainpanelhead.component.ts</context>
-          <context context-type="linenumber">418</context>
+          <context context-type="linenumber">436</context>
         </context-group>
       </trans-unit>
       <trans-unit id="agencySelection" datatype="html">
@@ -881,11 +885,11 @@
         <target state="new">Speichern</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/mainpanelhead/mainpanelhead.component.ts</context>
-          <context context-type="linenumber">399</context>
+          <context context-type="linenumber">417</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/mainpaneledit/mainpaneledit.component.ts</context>
-          <context context-type="linenumber">42</context>
+          <context context-type="linenumber">48</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/mainpanelnew/mainpanelnew.component.ts</context>
@@ -897,11 +901,11 @@
         <target state="new">Offerte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/mainpanelhead/mainpanelhead.component.ts</context>
-          <context context-type="linenumber">400</context>
+          <context context-type="linenumber">418</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/mainpanelnew/mainpanelnew.component.ts</context>
-          <context context-type="linenumber">78</context>
+          <context context-type="linenumber">81</context>
         </context-group>
       </trans-unit>
       <trans-unit id="orderXLSX" datatype="html">
@@ -909,11 +913,11 @@
         <target state="new">Auftrag-XLSX</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/mainpanelhead/mainpanelhead.component.ts</context>
-          <context context-type="linenumber">401</context>
+          <context context-type="linenumber">419</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/mainpanelnew/mainpanelnew.component.ts</context>
-          <context context-type="linenumber">79</context>
+          <context context-type="linenumber">82</context>
         </context-group>
       </trans-unit>
       <trans-unit id="object" datatype="html">
@@ -1054,7 +1058,7 @@
         <target state="new">Abbrechen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/mainpaneledit/mainpaneledit.component.ts</context>
-          <context context-type="linenumber">43</context>
+          <context context-type="linenumber">49</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/mainpanelnew/mainpanelnew.component.ts</context>
@@ -1062,7 +1066,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/mainpanelnew/mainpanelnew.component.ts</context>
-          <context context-type="linenumber">77</context>
+          <context context-type="linenumber">80</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/crmplus/shared/components/kundenterminlist/kundenterminlist.component.ts</context>
@@ -1074,11 +1078,11 @@
         <target state="new">Neu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/mainpanelnew/mainpanelnew.component.ts</context>
-          <context context-type="linenumber">76</context>
+          <context context-type="linenumber">79</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/allgemeineinfos/allgemeineinfos.component.ts</context>
-          <context context-type="linenumber">50</context>
+          <context context-type="linenumber">51</context>
         </context-group>
       </trans-unit>
       <trans-unit id="delete" datatype="html">
@@ -1086,11 +1090,11 @@
         <target state="new">Löschen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/chipsanzeige/chipsanzeige.component.ts</context>
-          <context context-type="linenumber">21</context>
+          <context context-type="linenumber">22</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/allgemeineinfos/allgemeineinfos.component.ts</context>
-          <context context-type="linenumber">32</context>
+          <context context-type="linenumber">33</context>
         </context-group>
       </trans-unit>
       <trans-unit id="featureTT" datatype="html">
@@ -1098,7 +1102,7 @@
         <target state="new">+Merkmal</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/chipsanzeige/chipsanzeige.component.ts</context>
-          <context context-type="linenumber">24</context>
+          <context context-type="linenumber">25</context>
         </context-group>
       </trans-unit>
       <trans-unit id="update" datatype="html">
@@ -1106,7 +1110,7 @@
         <target state="new">Update</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/allgemeineinfos/allgemeineinfos.component.ts</context>
-          <context context-type="linenumber">31</context>
+          <context context-type="linenumber">32</context>
         </context-group>
       </trans-unit>
       <trans-unit id="newNote" datatype="html">
@@ -1114,7 +1118,7 @@
         <target state="new">neue Notiz</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/allgemeineinfos/allgemeineinfos.component.ts</context>
-          <context context-type="linenumber">42</context>
+          <context context-type="linenumber">43</context>
         </context-group>
       </trans-unit>
       <trans-unit id="orderDetail" datatype="html">
@@ -1242,7 +1246,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/infosabo/infosabo.component.ts</context>
-          <context context-type="linenumber">8</context>
+          <context context-type="linenumber">9</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/crmplus/shared/components/cockpitverkaufschancen/cockpitverkaufschancen.component.ts</context>
@@ -1658,7 +1662,11 @@
         <target state="new">Brutto</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/infosauftraege/infosauftraege.component.ts</context>
-          <context context-type="linenumber">72</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/tools/crm/shared/components/infosofferten/infosofferten.component.ts</context>
+          <context context-type="linenumber">21</context>
         </context-group>
       </trans-unit>
       <trans-unit id="netto" datatype="html">
@@ -1666,7 +1674,11 @@
         <target state="new">Netto</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/infosauftraege/infosauftraege.component.ts</context>
-          <context context-type="linenumber">73</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/tools/crm/shared/components/infosofferten/infosofferten.component.ts</context>
+          <context context-type="linenumber">22</context>
         </context-group>
       </trans-unit>
       <trans-unit id="nettonetto" datatype="html">
@@ -1674,7 +1686,11 @@
         <target state="new">NettoNetto</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/infosauftraege/infosauftraege.component.ts</context>
-          <context context-type="linenumber">74</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/tools/crm/shared/components/infosofferten/infosofferten.component.ts</context>
+          <context context-type="linenumber">23</context>
         </context-group>
       </trans-unit>
       <trans-unit id="changeClient" datatype="html">
@@ -1742,7 +1758,7 @@
         <target state="new">Fakturiert</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/infosabo/infosabo.component.ts</context>
-          <context context-type="linenumber">9</context>
+          <context context-type="linenumber">10</context>
         </context-group>
       </trans-unit>
       <trans-unit id="fullStatus" datatype="html">
@@ -1750,7 +1766,7 @@
         <target state="new">Status</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/infosabo/infosabo.component.ts</context>
-          <context context-type="linenumber">10</context>
+          <context context-type="linenumber">11</context>
         </context-group>
       </trans-unit>
       <trans-unit id="fullBypass" datatype="html">
@@ -1758,11 +1774,11 @@
         <target state="new">Umleitungen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/infosabo/infosabo.component.ts</context>
-          <context context-type="linenumber">11</context>
+          <context context-type="linenumber">12</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/infosabo/infosabo.component.ts</context>
-          <context context-type="linenumber">14</context>
+          <context context-type="linenumber">15</context>
         </context-group>
       </trans-unit>
       <trans-unit id="interruptTT" datatype="html">
@@ -1770,7 +1786,7 @@
         <target state="new">Unterbrechen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/infosabo/infosabo.component.ts</context>
-          <context context-type="linenumber">15</context>
+          <context context-type="linenumber">16</context>
         </context-group>
       </trans-unit>
       <trans-unit id="resignTT" datatype="html">
@@ -1778,7 +1794,7 @@
         <target state="new">Kündigen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/infosabo/infosabo.component.ts</context>
-          <context context-type="linenumber">16</context>
+          <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="phone" datatype="html">
@@ -2212,6 +2228,10 @@
           <context context-type="linenumber">3</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">app/tools/crm/shared/components/aktiondropmaterial/aktiondropmaterial.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/crmplus/shared/components/kundenterminlist/kundenterminlist.component.ts</context>
           <context context-type="linenumber">69</context>
         </context-group>
@@ -2299,7 +2319,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/crmtel/agendaitems/agendaitems-show/agendaitems-show.component.ts</context>
-          <context context-type="linenumber">6</context>
+          <context context-type="linenumber">5</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/crmtel/kunden/kunden-show/kunden-show.component.ts</context>
@@ -2525,70 +2545,70 @@
       <trans-unit id="currentYear" datatype="html">
         <source>Akt. Jahr</source>
         <target state="new">Akt. Jahr</target>
+        <note from="description" priority="1">Aktuelles Jahr</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/crmplus/shared/components/umsatztabelle/umsatztabelle.component.ts</context>
-          <context context-type="linenumber">21</context>
+          <context context-type="linenumber">22</context>
         </context-group>
-        <note from="description" priority="1">Aktuelles Jahr</note>
       </trans-unit>
       <trans-unit id="previousYear" datatype="html">
         <source>Vorjahr</source>
         <target state="new">Vorjahr</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/crmplus/shared/components/umsatztabelle/umsatztabelle.component.ts</context>
-          <context context-type="linenumber">27</context>
+          <context context-type="linenumber">28</context>
         </context-group>
       </trans-unit>
       <trans-unit id="differenceAbs" datatype="html">
         <source>Diff-Abs</source>
         <target state="new">Diff-Abs</target>
+        <note from="description" priority="1">Differenz Absolut</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/crmplus/shared/components/umsatztabelle/umsatztabelle.component.ts</context>
-          <context context-type="linenumber">32</context>
+          <context context-type="linenumber">33</context>
         </context-group>
-        <note from="description" priority="1">Differenz Absolut</note>
       </trans-unit>
       <trans-unit id="differenceAbsPercent" datatype="html">
         <source>Diff%</source>
         <target state="new">Diff%</target>
+        <note from="description" priority="1">Differenz in Prozent</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/crmplus/shared/components/umsatztabelle/umsatztabelle.component.ts</context>
-          <context context-type="linenumber">37</context>
+          <context context-type="linenumber">38</context>
         </context-group>
-        <note from="description" priority="1">Differenz in Prozent</note>
       </trans-unit>
       <trans-unit id="budget" datatype="html">
         <source>Budget</source>
         <target state="new">Budget</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/crmplus/shared/components/umsatztabelle/umsatztabelle.component.ts</context>
-          <context context-type="linenumber">42</context>
+          <context context-type="linenumber">43</context>
         </context-group>
       </trans-unit>
       <trans-unit id="differenceBudgetAbs" datatype="html">
         <source>Diff-Bud-Abs</source>
         <target state="new">Diff-Bud-Abs</target>
+        <note from="description" priority="1">Differenz Budget</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/crmplus/shared/components/umsatztabelle/umsatztabelle.component.ts</context>
-          <context context-type="linenumber">47</context>
+          <context context-type="linenumber">48</context>
         </context-group>
-        <note from="description" priority="1">Differenz Budget</note>
       </trans-unit>
       <trans-unit id="differenceBudgetPercent" datatype="html">
         <source>Diff%-Bud</source>
         <target state="new">Diff%-Bud</target>
+        <note from="description" priority="1">Differenz Budget in Prozent</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/crmplus/shared/components/umsatztabelle/umsatztabelle.component.ts</context>
-          <context context-type="linenumber">52</context>
+          <context context-type="linenumber">53</context>
         </context-group>
-        <note from="description" priority="1">Differenz Budget in Prozent</note>
       </trans-unit>
       <trans-unit id="followingYear" datatype="html">
         <source>Nachjahr</source>
         <target state="new">Nachjahr</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/crmplus/shared/components/umsatztabelle/umsatztabelle.component.ts</context>
-          <context context-type="linenumber">57</context>
+          <context context-type="linenumber">58</context>
         </context-group>
       </trans-unit>
       <trans-unit id="pdfDoc" datatype="html">
@@ -2945,6 +2965,14 @@
           <context context-type="linenumber">467</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="showinsertEnd" datatype="html">
+        <source>Insert.schluss anzeigen</source>
+        <target state="new">Insert.schluss anzeigen</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
+          <context context-type="linenumber">502</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="insertionEnd" datatype="html">
         <source>Insertionsschluss (Tag)</source>
         <target state="new">Insertionsschluss (Tag)</target>
@@ -3143,9 +3171,9 @@
           <context context-type="linenumber">654</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="percentageAbsolut" datatype="html">
-        <source>Prozentsatz und Absolut</source>
-        <target state="new">Prozentsatz und Absolut</target>
+      <trans-unit id="percentage" datatype="html">
+        <source>Prozentsatz</source>
+        <target state="new">Prozentsatz</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
           <context context-type="linenumber">655</context>
@@ -3442,7 +3470,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-4/a4-hoch-4.component.ts</context>
-          <context context-type="linenumber">162</context>
+          <context context-type="linenumber">177</context>
         </context-group>
       </trans-unit>
       <trans-unit id="exclusiveMwSt" datatype="html">
@@ -3462,7 +3490,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-4/a4-hoch-4.component.ts</context>
-          <context context-type="linenumber">164</context>
+          <context context-type="linenumber">179</context>
         </context-group>
       </trans-unit>
       <trans-unit id="inPlaceOf" datatype="html">
@@ -3494,7 +3522,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-4/a4-hoch-4.component.ts</context>
-          <context context-type="linenumber">167</context>
+          <context context-type="linenumber">182</context>
         </context-group>
       </trans-unit>
       <trans-unit id="special" datatype="html">
@@ -3530,7 +3558,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-4/a4-hoch-4.component.ts</context>
-          <context context-type="linenumber">186</context>
+          <context context-type="linenumber">201</context>
         </context-group>
       </trans-unit>
       <trans-unit id="urubricFull" datatype="html">
@@ -3623,7 +3651,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-4/a4-hoch-4.component.ts</context>
-          <context context-type="linenumber">197</context>
+          <context context-type="linenumber">212</context>
         </context-group>
       </trans-unit>
       <trans-unit id="startDate" datatype="html">
