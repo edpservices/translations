@@ -90,7 +90,7 @@
           </trans-unit>
           <trans-unit id="of" datatype="html">
             <source>von</source>
-            <target state="new">von</target>
+            <target state="final">de</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/shared/components/material-table/material-table.component.ts</context>
               <context context-type="linenumber">132</context>
@@ -134,7 +134,7 @@
           </trans-unit>
           <trans-unit id="fullTime" datatype="html">
             <source>Uhrzeit</source>
-            <target state="new">Uhrzeit</target>
+            <target state="final">heure</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/headeranzeige/headeranzeige.component.ts</context>
               <context context-type="linenumber">30</context>
@@ -190,7 +190,7 @@
           </trans-unit>
           <trans-unit id="logout" datatype="html">
             <source>Abmelden</source>
-            <target state="new">Abmelden</target>
+            <target state="final">se d&#xE9;connecter</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/headeranzeige/headeranzeige.component.ts</context>
               <context context-type="linenumber">55</context>
@@ -206,7 +206,7 @@
           </trans-unit>
           <trans-unit id="client" datatype="html">
             <source>Kunde</source>
-            <target state="new">Kunde</target>
+            <target state="final">client</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/kundensuchfeld/kundensuchfeld.component.ts</context>
               <context context-type="linenumber">21</context>
@@ -310,7 +310,7 @@
           </trans-unit>
           <trans-unit id="clientNumberPlaceholder" datatype="html">
             <source>Kundennummer</source>
-            <target state="new">Kundennummer</target>
+            <target state="final">num&#xE9;ro de client</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/kundensuchfeld/kundensuchfeld.component.ts</context>
               <context context-type="linenumber">53</context>
@@ -318,7 +318,7 @@
           </trans-unit>
           <trans-unit id="streetNumberPlaceholder" datatype="html">
             <source>Strasse Nr</source>
-            <target state="new">Strasse Nr</target>
+            <target state="final">rue </target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/kundensuchfeld/kundensuchfeld.component.ts</context>
               <context context-type="linenumber">55</context>
@@ -326,7 +326,7 @@
           </trans-unit>
           <trans-unit id="fullPlacePlaceholder" datatype="html">
             <source>PLZ Ort</source>
-            <target state="new">PLZ Ort</target>
+            <target state="final">NPA lieu</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/kundensuchfeld/kundensuchfeld.component.ts</context>
               <context context-type="linenumber">56</context>
@@ -334,7 +334,7 @@
           </trans-unit>
           <trans-unit id="firstNamePlaceholder" datatype="html">
             <source>Vorname</source>
-            <target state="new">Vorname</target>
+            <target state="final">pr&#xE9;nom</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/kundensuchfeld/kundensuchfeld.component.ts</context>
               <context context-type="linenumber">57</context>
@@ -434,7 +434,7 @@
           </trans-unit>
           <trans-unit id="street" datatype="html">
             <source>Strasse</source>
-            <target state="new">Strasse</target>
+            <target state="final">rue</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/agentursuchfeld/agentursuchfeld.component.ts</context>
               <context context-type="linenumber">50</context>
@@ -450,7 +450,7 @@
           </trans-unit>
           <trans-unit id="place" datatype="html">
             <source>Ort</source>
-            <target state="new">Ort</target>
+            <target state="final">lieu</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/agentursuchfeld/agentursuchfeld.component.ts</context>
               <context context-type="linenumber">54</context>
@@ -510,7 +510,7 @@
           </trans-unit>
           <trans-unit id="mobile" datatype="html">
             <source>Mobile</source>
-            <target state="new">Mobile</target>
+            <target state="final">mobil</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/agentursuchfeld/agentursuchfeld.component.ts</context>
               <context context-type="linenumber">66</context>
@@ -522,7 +522,7 @@
           </trans-unit>
           <trans-unit id="mail" datatype="html">
             <source>Mail</source>
-            <target state="new">Mail</target>
+            <target state="final">mail</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/agentursuchfeld/agentursuchfeld.component.ts</context>
               <context context-type="linenumber">70</context>
@@ -582,7 +582,7 @@
           </trans-unit>
           <trans-unit id="date" datatype="html">
             <source>Datum</source>
-            <target state="new">Datum</target>
+            <target state="final">date</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/datumzeitauswahl/datumzeitauswahl.component.ts</context>
               <context context-type="linenumber">13</context>
@@ -622,7 +622,7 @@
           </trans-unit>
           <trans-unit id="time" datatype="html">
             <source>Zeit</source>
-            <target state="new">Zeit</target>
+            <target state="final">heure</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/datumzeitauswahl/datumzeitauswahl.component.ts</context>
               <context context-type="linenumber">16</context>
@@ -638,7 +638,7 @@
           </trans-unit>
           <trans-unit id="contactPersonPlaceholder" datatype="html">
             <source>Kontaktperson</source>
-            <target state="new">Kontaktperson</target>
+            <target state="final">personne de contact</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/kontaktpersdropmaterial/kontaktpersdropmaterial.component.ts</context>
               <context context-type="linenumber">2</context>
@@ -646,7 +646,7 @@
           </trans-unit>
           <trans-unit id="empty" datatype="html">
             <source>leer</source>
-            <target state="new">leer</target>
+            <target state="final">vide</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/aktivitaetdropmaterial/aktivitaetdropmaterial.component.ts</context>
               <context context-type="linenumber">2</context>
@@ -662,7 +662,7 @@
           </trans-unit>
           <trans-unit id="activity" datatype="html">
             <source>Aktivit&#xE4;t</source>
-            <target state="new">Aktivit&#xE4;t</target>
+            <target state="final">activit&#xE9;e</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/aktivitaetdropmaterial/aktivitaetdropmaterial.component.ts</context>
               <context context-type="linenumber">1</context>
@@ -682,7 +682,7 @@
           </trans-unit>
           <trans-unit id="colleaguesPlaceholder" datatype="html">
             <source>Mitarbeiter</source>
-            <target state="new">Mitarbeiter</target>
+            <target state="final">collaborateur</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/mitarbeiterdropmaterial/mitarbeiterdropmaterial.component.ts</context>
               <context context-type="linenumber">7</context>
@@ -742,7 +742,7 @@
           </trans-unit>
           <trans-unit id="cancelDateB" datatype="html">
             <source>l&#xF6;schen</source>
-            <target state="new">l&#xF6;schen</target>
+            <target state="final">effacer</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/testmainpanel/testmainpanel.component.ts</context>
               <context context-type="linenumber">81</context>
@@ -754,7 +754,7 @@
           </trans-unit>
           <trans-unit id="dateCanceled" datatype="html">
             <source>Termin Gel&#xF6;scht</source>
-            <target state="new">Termin Gel&#xF6;scht</target>
+            <target state="final">rendez-vous effac&#xE9;</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/testmainpanel/testmainpanel.component.ts</context>
               <context context-type="linenumber">91</context>
@@ -782,7 +782,7 @@
           </trans-unit>
           <trans-unit id="deleteClientTT" datatype="html">
             <source>Kunde l&#xF6;schen</source>
-            <target state="new">Kunde l&#xF6;schen</target>
+            <target state="final">effacer client</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/mainpanelhead/mainpanelhead.component.ts</context>
               <context context-type="linenumber">11</context>
