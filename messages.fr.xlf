@@ -3359,7 +3359,7 @@
           </trans-unit>
           <trans-unit id="yourAd" datatype="html">
             <source>Ihre Werbung</source>
-            <target state="new">Ihre Werbung</target>
+            <target state="final">votre publicit&#xE9;e</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-1/a4-hoch-1.component.ts</context>
               <context context-type="linenumber">61</context>
@@ -3395,7 +3395,7 @@
           </trans-unit>
           <trans-unit id="tillTimeA" datatype="html">
             <source>bis</source>
-            <target state="new">bis</target>
+            <target state="final">jusqu&#x27;&#xE0;</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-1/a4-hoch-1.component.ts</context>
               <context context-type="linenumber">86</context>
@@ -3419,7 +3419,7 @@
           </trans-unit>
           <trans-unit id="tillTimeB" datatype="html">
             <source>Uhr</source>
-            <target state="new">Uhr</target>
+            <target state="final">heure</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-1/a4-hoch-1.component.ts</context>
               <context context-type="linenumber">86</context>
@@ -3443,7 +3443,7 @@
           </trans-unit>
           <trans-unit id="for" datatype="html">
             <source>f&#xFC;r</source>
-            <target state="new">f&#xFC;r</target>
+            <target state="final">pour</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-1/a4-hoch-1.component.ts</context>
               <context context-type="linenumber">86</context>
@@ -3459,7 +3459,7 @@
           </trans-unit>
           <trans-unit id="sumPrice" datatype="html">
             <source>Gesamtpreis</source>
-            <target state="new">Gesamtpreis</target>
+            <target state="final">prix total</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-1/a4-hoch-1.component.ts</context>
               <context context-type="linenumber">108</context>
@@ -3475,7 +3475,7 @@
           </trans-unit>
           <trans-unit id="exclusiveMwSt" datatype="html">
             <source>exkl. MwSt.</source>
-            <target state="new">exkl. MwSt.</target>
+            <target state="final">TVA exclus</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-1/a4-hoch-1.component.ts</context>
               <context context-type="linenumber">110</context>
@@ -3495,7 +3495,7 @@
           </trans-unit>
           <trans-unit id="inPlaceOf" datatype="html">
             <source>anstatt</source>
-            <target state="new">anstatt</target>
+            <target state="final">&#xE0; la place</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-1/a4-hoch-1.component.ts</context>
               <context context-type="linenumber">111</context>
@@ -3543,7 +3543,7 @@
           </trans-unit>
           <trans-unit id="salutations" datatype="html">
             <source>Freundliche Gr&#xFC;sse</source>
-            <target state="new">Freundliche Gr&#xFC;sse</target>
+            <target state="final">Meilleures salutations</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-1/a4-hoch-1.component.ts</context>
               <context context-type="linenumber">133</context>
@@ -3563,7 +3563,7 @@
           </trans-unit>
           <trans-unit id="urubricFull" datatype="html">
             <source>Unterrubrik</source>
-            <target state="new">Unterrubrik</target>
+            <target state="final">sous-rubrique</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-2/a4-hoch-2.component.ts</context>
               <context context-type="linenumber">63</context>
@@ -3595,7 +3595,7 @@
           </trans-unit>
           <trans-unit id="productionSize" datatype="html">
             <source>Produktionsgr&#xF6;sse (B x H)</source>
-            <target state="new">Produktionsgr&#xF6;sse (B x H)</target>
+            <target state="final">taille de production (largeur x hauteur)</target>
             <note priority="1" from="description">(Breite x H&#xF6;he)</note>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-2/a4-hoch-2.component.ts</context>
@@ -3680,7 +3680,7 @@
           </trans-unit>
           <trans-unit id="signature" datatype="html">
             <source>Unterschrift</source>
-            <target state="new">Unterschrift</target>
+            <target state="final">signature</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-3/a4-hoch-3.component.ts</context>
               <context context-type="linenumber">191</context>
@@ -3688,7 +3688,7 @@
           </trans-unit>
           <trans-unit id="clientNumber2" datatype="html">
             <source>Kunden-Nr.</source>
-            <target state="new">Kunden-Nr.</target>
+            <target state="final">numm&#xE9;ro de client</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-1/a4-quer-1.component.ts</context>
               <context context-type="linenumber">15</context>
@@ -3716,7 +3716,7 @@
           </trans-unit>
           <trans-unit id="yourContact" datatype="html">
             <source>Ihr Kontakt</source>
-            <target state="new">Ihr Kontakt</target>
+            <target state="final">votre contact</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-1/a4-quer-1.component.ts</context>
               <context context-type="linenumber">17</context>
@@ -3744,7 +3744,7 @@
           </trans-unit>
           <trans-unit id="costPerEditionA" datatype="html">
             <source>Kosten</source>
-            <target state="new">Kosten</target>
+            <target state="final">co&#xFB;t</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-1/a4-quer-1.component.ts</context>
               <context context-type="linenumber">60</context>
@@ -3812,7 +3812,7 @@
           </trans-unit>
           <trans-unit id="totalPreTax" datatype="html">
             <source>Total Brutto</source>
-            <target state="new">Total Brutto</target>
+            <target state="final">total brut</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-1/a4-quer-1.component.ts</context>
               <context context-type="linenumber">62</context>
@@ -3869,7 +3869,7 @@
           </trans-unit>
           <trans-unit id="completionWHpercentC" datatype="html">
             <source>in</source>
-            <target state="new">in</target>
+            <target state="final">dans</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-1/a4-quer-1.component.ts</context>
               <context context-type="linenumber">63</context>
@@ -3905,7 +3905,7 @@
           </trans-unit>
           <trans-unit id="specialDiscountA" datatype="html">
             <source>Spezial</source>
-            <target state="new">Spezial</target>
+            <target state="final">sp&#xE9;cial</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-1/a4-quer-1.component.ts</context>
               <context context-type="linenumber">65</context>
@@ -3925,7 +3925,7 @@
           </trans-unit>
           <trans-unit id="specialDiscountB" datatype="html">
             <source>rabatt</source>
-            <target state="new">rabatt</target>
+            <target state="final">rabais</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-1/a4-quer-1.component.ts</context>
               <context context-type="linenumber">65</context>
@@ -3984,7 +3984,7 @@
           </trans-unit>
           <trans-unit id="totalNetSlashNetB" datatype="html">
             <source>Netto/Netto</source>
-            <target state="new">Netto/Netto</target>
+            <target state="final">net/net</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-1/a4-quer-1.component.ts</context>
               <context context-type="linenumber">68</context>
@@ -4060,7 +4060,7 @@
           </trans-unit>
           <trans-unit id="title" datatype="html">
             <source>Titel</source>
-            <target state="new">Titel</target>
+            <target state="final">titre</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-6/a4-quer-6.component.ts</context>
               <context context-type="linenumber">58</context>
@@ -4084,7 +4084,7 @@
           </trans-unit>
           <trans-unit id="plazierung" datatype="html">
             <source>Plazierung </source>
-            <target state="new">Plazierung </target>
+            <target state="final">emplacement</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-6/a4-quer-6.component.ts</context>
               <context context-type="linenumber">62</context>
@@ -4092,7 +4092,7 @@
           </trans-unit>
           <trans-unit id="zuschlag" datatype="html">
             <source>Zuschlag</source>
-            <target state="new">Zuschlag</target>
+            <target state="final">suppl&#xE9;ment</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-6/a4-quer-6.component.ts</context>
               <context context-type="linenumber">62</context>
@@ -4108,7 +4108,7 @@
           </trans-unit>
           <trans-unit id="spezrab" datatype="html">
             <source>SpezRab</source>
-            <target state="new">SpezRab</target>
+            <target state="final">rabais sp&#xE9;cial</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-6/a4-quer-6.component.ts</context>
               <context context-type="linenumber">65</context>
