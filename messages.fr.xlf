@@ -2614,7 +2614,7 @@
           </trans-unit>
           <trans-unit id="pdfDoc" datatype="html">
             <source>Dokument als PDF anzeigen</source>
-            <target state="new">Dokument als PDF anzeigen</target>
+            <target state="final">afficher le document en PDF</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">44</context>
@@ -2622,7 +2622,7 @@
           </trans-unit>
           <trans-unit id="pdfDownload" datatype="html">
             <source>Dokument als PDF herunterladen</source>
-            <target state="new">Dokument als PDF herunterladen</target>
+            <target state="final">t&#xE9;l&#xE9;chargement du document en PDF</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">51</context>
@@ -2630,7 +2630,7 @@
           </trans-unit>
           <trans-unit id="sendMail" datatype="html">
             <source>Mail verschicken...</source>
-            <target state="new">Mail verschicken...</target>
+            <target state="final">envoyer le mail</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">53</context>
@@ -2638,7 +2638,7 @@
           </trans-unit>
           <trans-unit id="updateDoc" datatype="html">
             <source>Aktualisieren [alt]-[a]</source>
-            <target state="new">Aktualisieren [alt]-[a]</target>
+            <target state="final">actualiser</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">57</context>
@@ -2834,7 +2834,7 @@
           </trans-unit>
           <trans-unit id="chooseObject" datatype="html">
             <source>Objekt ausw&#xE4;hlen</source>
-            <target state="new">Objekt ausw&#xE4;hlen</target>
+            <target state="final">choix de l&#x27;objet</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">297</context>
@@ -2842,7 +2842,7 @@
           </trans-unit>
           <trans-unit id="noAddition" datatype="html">
             <source>keiner</source>
-            <target state="new">keiner</target>
+            <target state="final">aucun</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">340</context>
@@ -2942,7 +2942,7 @@
           </trans-unit>
           <trans-unit id="quantityAppearence" datatype="html">
             <source>Anzahl Ersch.</source>
-            <target state="new">Anzahl Ersch.</target>
+            <target state="final">nombres de parutions</target>
             <note priority="1" from="description">Anzahl Erscheinungen</note>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
@@ -2984,7 +2984,7 @@
           </trans-unit>
           <trans-unit id="timeATM" datatype="html">
             <source>Zeit (SS:MM)</source>
-            <target state="new">Zeit (SS:MM)</target>
+            <target state="final">heure</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">513</context>
@@ -2992,7 +2992,7 @@
           </trans-unit>
           <trans-unit id="noColor" datatype="html">
             <source>keine</source>
-            <target state="new">keine</target>
+            <target state="final">aucune</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">534</context>
@@ -3000,7 +3000,7 @@
           </trans-unit>
           <trans-unit id="commaBlackWhite" datatype="html">
             <source>s/w</source>
-            <target state="new">s/w</target>
+            <target state="final">noir/blanc</target>
             <note priority="1" from="description">Schwarz-Weiss</note>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
@@ -3045,7 +3045,7 @@
           </trans-unit>
           <trans-unit id="commaColored" datatype="html">
             <source>farbig</source>
-            <target state="new">farbig</target>
+            <target state="final">couleur</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">536</context>
@@ -3113,7 +3113,7 @@
           </trans-unit>
           <trans-unit id="calcPrice" datatype="html">
             <source>berechn. Preis</source>
-            <target state="new">berechn. Preis</target>
+            <target state="final">prix calcul&#xE9;</target>
             <note priority="1" from="description">Berechneter Preis</note>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
@@ -3126,7 +3126,7 @@
           </trans-unit>
           <trans-unit id="priceAdMedium" datatype="html">
             <source>Preis (Werbemittel)</source>
-            <target state="new">Preis (Werbemittel)</target>
+            <target state="final">prix</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">598</context>
