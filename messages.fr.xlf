@@ -813,7 +813,7 @@
           </trans-unit>
           <trans-unit id="postponeDateTT" datatype="html">
             <source>Postpone Termin</source>
-            <target state="new">Postpone Termin</target>
+            <target state="final">Repousser Terminer</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/crm/shared/components/mainpanelhead/mainpanelhead.component.ts</context>
               <context context-type="linenumber">49</context>
@@ -3103,7 +3103,7 @@
           </trans-unit>
           <trans-unit id="adviserCommission" datatype="html">
             <source>Beraterkommission in %</source>
-            <target state="new">Beraterkommission in %</target>
+            <target state="final">Commission en %.</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">587</context>
@@ -3132,7 +3132,7 @@
           </trans-unit>
           <trans-unit id="pricePosition" datatype="html">
             <source>Preisposition ausw&#xE4;hlen</source>
-            <target state="new">Preisposition ausw&#xE4;hlen</target>
+            <target state="final">S&#xE9;lectionner la position de prix</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">619</context>
@@ -3140,7 +3140,7 @@
           </trans-unit>
           <trans-unit id="discountAddition" datatype="html">
             <source>Rabatte/Zuschl&#xE4;ge</source>
-            <target state="new">Rabatte/Zuschl&#xE4;ge</target>
+            <target state="final">Rabais/suppl&#xE9;ments</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">618</context>
@@ -3148,7 +3148,7 @@
           </trans-unit>
           <trans-unit id="addPricePosition" datatype="html">
             <source>Preispos hinzuf&#xFC;gen</source>
-            <target state="new">Preispos hinzuf&#xFC;gen</target>
+            <target state="final">Ajouter une position de prix</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">629</context>
@@ -3156,7 +3156,7 @@
           </trans-unit>
           <trans-unit id="approachPerUnity" datatype="html">
             <source>Ansatz je Einheit</source>
-            <target state="new">Ansatz je Einheit</target>
+            <target state="final">taux par unit&#xE9;</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">653</context>
@@ -3164,7 +3164,7 @@
           </trans-unit>
           <trans-unit id="sweepingPerEdition" datatype="html">
             <source>Pauschal je Ausg.</source>
-            <target state="new">Pauschal je Ausg.</target>
+            <target state="final">Forfait par &#xE9;dition</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">654</context>
@@ -3172,7 +3172,7 @@
           </trans-unit>
           <trans-unit id="percentage" datatype="html">
             <source>Prozentsatz</source>
-            <target state="new">Prozentsatz</target>
+            <target state="final">pourcentage</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">655</context>
@@ -3180,7 +3180,7 @@
           </trans-unit>
           <trans-unit id="sweepingAll" datatype="html">
             <source>Pauschal alle Ausg.</source>
-            <target state="new">Pauschal alle Ausg.</target>
+            <target state="final">Tarif forfaitaire pour toutes les &#xE9;ditions</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">656</context>
@@ -3188,7 +3188,7 @@
           </trans-unit>
           <trans-unit id="sweepingPerObject" datatype="html">
             <source>Pauschal je Objekt</source>
-            <target state="new">Pauschal je Objekt</target>
+            <target state="final">Forfait par objet</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">657</context>
@@ -3196,7 +3196,7 @@
           </trans-unit>
           <trans-unit id="percentageNotRounded" datatype="html">
             <source>Prozentsatz ungerundet</source>
-            <target state="new">Prozentsatz ungerundet</target>
+            <target state="final">Pourcentage non arrondi</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">658</context>
@@ -3204,7 +3204,7 @@
           </trans-unit>
           <trans-unit id="typ" datatype="html">
             <source>Typ</source>
-            <target state="new">Typ</target>
+            <target state="final">type</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">652</context>
@@ -3212,7 +3212,7 @@
           </trans-unit>
           <trans-unit id="pricePriceposition" datatype="html">
             <source>Preis (Preispos)</source>
-            <target state="new">Preis (Preispos)</target>
+            <target state="final">Prix (prix de position)</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">670</context>
@@ -3220,7 +3220,7 @@
           </trans-unit>
           <trans-unit id="addPagebreak" datatype="html">
             <source>Seitenumbruch einf&#xFC;gen</source>
-            <target state="new">Seitenumbruch einf&#xFC;gen</target>
+            <target state="final">Ins&#xE9;rer un saut de page</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">679</context>
@@ -3228,7 +3228,7 @@
           </trans-unit>
           <trans-unit id="addAdMedium" datatype="html">
             <source>Werbemittel hinzuf&#xFC;gen</source>
-            <target state="new">Werbemittel hinzuf&#xFC;gen</target>
+            <target state="final">Ajouter du mat&#xE9;riel publicitaire</target>
             <context-group purpose="location">
               <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.ts</context>
               <context context-type="linenumber">688</context>
