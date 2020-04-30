@@ -2375,7 +2375,7 @@
         <target state="translated">description</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">695</context>
+          <context context-type="linenumber">696</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/crmplus/shared/components/cockpitnexttermin/cockpitnexttermin.component.html</context>
@@ -2478,23 +2478,27 @@
           <context context-type="linenumber">94</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="020ecb7454a205760ce6e69026213293fc63e45e" datatype="html">
+      <trans-unit id="BezNr" datatype="html">
         <source>BezNr</source>
         <target state="new">BezNr</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/update-neuer-kunde/update-neuer-kunde.component.html</context>
           <context context-type="linenumber">107</context>
         </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
-          <context context-type="linenumber">115</context>
-        </context-group>
       </trans-unit>
-      <trans-unit id="d056d836733c41d7a921f771ee9f53fdfd5cb031" datatype="html">
+      <trans-unit id="BAdresstyp" datatype="html">
         <source>Adresstyp</source>
         <target state="new">Adresstyp</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/crm/shared/components/update-neuer-kunde/update-neuer-kunde.component.html</context>
+          <context context-type="linenumber">115</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="020ecb7454a205760ce6e69026213293fc63e45e" datatype="html">
+        <source>BezNr</source>
+        <target state="new">BezNr</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
           <context context-type="linenumber">115</context>
         </context-group>
       </trans-unit>
@@ -3140,6 +3144,26 @@
           <context context-type="linenumber">49</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="range" datatype="html">
+        <source>Reichweite</source>
+        <target state="new">Reichweite</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-quer-4/a4-quer-4.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="comment" datatype="html">
         <source>Kommentar</source>
         <target state="final">commentaire</target>
@@ -3186,10 +3210,6 @@
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/other/shared/components/articleinfo/articleinfo.component.html</context>
           <context context-type="linenumber">38</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/tools/other/shared/components/objectinfo/objectinfo.component.html</context>
-          <context context-type="linenumber">32</context>
         </context-group>
       </trans-unit>
       <trans-unit id="e7db82b61f20b8b461988cf9504f1c623985d1ad" datatype="html">
@@ -3680,14 +3700,6 @@
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/other/shared/components/workflow-editor/workflow-editor.component.html</context>
           <context context-type="linenumber">107</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="b064220ba885a8dae2eb062c19eab79b11ca2784" datatype="html">
-        <source>Autoren:</source>
-        <target state="new">Autoren:</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/tools/other/shared/components/objectinfo/objectinfo.component.html</context>
-          <context context-type="linenumber">38</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7db923093063224b8833d6429b9a438076326bd6" datatype="html">
@@ -5856,7 +5868,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">717</context>
+          <context context-type="linenumber">718</context>
         </context-group>
       </trans-unit>
       <trans-unit id="priceAdMedium" datatype="html">
@@ -5896,7 +5908,7 @@
         <target state="final">taux par unité</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">706</context>
+          <context context-type="linenumber">707</context>
         </context-group>
       </trans-unit>
       <trans-unit id="sweepingPerEdition" datatype="html">
@@ -5904,7 +5916,7 @@
         <target state="final">Forfait par édition</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">707</context>
+          <context context-type="linenumber">708</context>
         </context-group>
       </trans-unit>
       <trans-unit id="percentage" datatype="html">
@@ -5912,7 +5924,7 @@
         <target state="final">pourcentage</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">708</context>
+          <context context-type="linenumber">709</context>
         </context-group>
       </trans-unit>
       <trans-unit id="sweepingAll" datatype="html">
@@ -5920,7 +5932,7 @@
         <target state="final">Tarif forfaitaire pour toutes les éditions</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">709</context>
+          <context context-type="linenumber">710</context>
         </context-group>
       </trans-unit>
       <trans-unit id="sweepingPerObject" datatype="html">
@@ -5928,7 +5940,7 @@
         <target state="final">Forfait par objet</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">710</context>
+          <context context-type="linenumber">711</context>
         </context-group>
       </trans-unit>
       <trans-unit id="percentageNotRounded" datatype="html">
@@ -5936,7 +5948,7 @@
         <target state="final">Pourcentage non arrondi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">711</context>
+          <context context-type="linenumber">712</context>
         </context-group>
       </trans-unit>
       <trans-unit id="typ" datatype="html">
@@ -5944,7 +5956,7 @@
         <target state="final">type</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">705</context>
+          <context context-type="linenumber">706</context>
         </context-group>
       </trans-unit>
       <trans-unit id="pricePriceposition" datatype="html">
@@ -5952,7 +5964,7 @@
         <target state="final">Prix (prix de position)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">723</context>
+          <context context-type="linenumber">724</context>
         </context-group>
       </trans-unit>
       <trans-unit id="addPagebreak" datatype="html">
@@ -5960,7 +5972,7 @@
         <target state="final">Insérer un saut de page</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">732</context>
+          <context context-type="linenumber">733</context>
         </context-group>
       </trans-unit>
       <trans-unit id="addAdMedium" datatype="html">
@@ -5968,7 +5980,7 @@
         <target state="final">Ajouter du matériel publicitaire</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">741</context>
+          <context context-type="linenumber">742</context>
         </context-group>
       </trans-unit>
       <trans-unit id="addObject" datatype="html">
@@ -5976,7 +5988,7 @@
         <target state="final">Ajouter un objet</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">750</context>
+          <context context-type="linenumber">751</context>
         </context-group>
       </trans-unit>
       <trans-unit id="model" datatype="html">
@@ -5984,7 +5996,7 @@
         <target state="final">modèle</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">773</context>
+          <context context-type="linenumber">774</context>
         </context-group>
       </trans-unit>
       <trans-unit id="chooseModel" datatype="html">
@@ -5992,7 +6004,7 @@
         <target state="final">Sélectionner un modèle</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">775</context>
+          <context context-type="linenumber">776</context>
         </context-group>
       </trans-unit>
       <trans-unit id="welcomeMessageA" datatype="html">
@@ -6000,7 +6012,7 @@
         <target state="final">Bienvenue à la</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">800</context>
+          <context context-type="linenumber">801</context>
         </context-group>
       </trans-unit>
       <trans-unit id="welcomeMessageB" datatype="html">
@@ -6008,7 +6020,7 @@
         <target state="final">Outil d'offre et de commande</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">800</context>
+          <context context-type="linenumber">801</context>
         </context-group>
       </trans-unit>
       <trans-unit id="tutorialText" datatype="html">
@@ -6018,7 +6030,7 @@
                   puis saisissez votre offre/ordre dans la partie gauche de l'écran (ou directement dans le document pour les modèles de formulaire libre).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/offerte-show.component.html</context>
-          <context context-type="linenumber">801</context>
+          <context context-type="linenumber">802</context>
         </context-group>
       </trans-unit>
       <trans-unit id="objectChoice" datatype="html">
@@ -6216,18 +6228,18 @@
       <trans-unit id="adviserCommissionAbbrv" datatype="html">
         <source>BK</source>
         <target state="new">BK</target>
+        <note priority="1" from="description">Beraterkommission abkürzung</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-1/a4-hoch-1.component.html</context>
-          <context context-type="linenumber">114</context>
+          <context context-type="linenumber">119</context>
         </context-group>
-        <note priority="1" from="description">Beraterkommission abkürzung</note>
       </trans-unit>
       <trans-unit id="sumPrice" datatype="html">
         <source>Gesamtpreis</source>
         <target state="final">prix total</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-1/a4-hoch-1.component.html</context>
-          <context context-type="linenumber">135</context>
+          <context context-type="linenumber">140</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-2/a4-hoch-2.component.html</context>
@@ -6247,7 +6259,7 @@
         <target state="final">TVA exclus</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-1/a4-hoch-1.component.html</context>
-          <context context-type="linenumber">137</context>
+          <context context-type="linenumber">142</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-2/a4-hoch-2.component.html</context>
@@ -6271,7 +6283,7 @@
         <target state="final">Spéciales</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-1/a4-hoch-1.component.html</context>
-          <context context-type="linenumber">152</context>
+          <context context-type="linenumber">157</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-2/a4-hoch-2.component.html</context>
@@ -6291,7 +6303,7 @@
         <target state="final">Meilleures salutations</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-1/a4-hoch-1.component.html</context>
-          <context context-type="linenumber">164</context>
+          <context context-type="linenumber">169</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/tools/offerte/offerte-show/templates/a4-hoch-2/a4-hoch-2.component.html</context>
