@@ -7,7 +7,6 @@
 </source>
         <target state="needs-adaptation">Le navigateur bloque l'URL. Confirmer l'URL via le lien dans la console du développeur (F12). Affiché
         Message d'erreur (net::ERR_INSECURE_RESPONSE).</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/login/login-component-dialog.html</context>
           <context context-type="linenumber">1,4</context>
@@ -336,7 +335,6 @@
       <trans-unit id="agent" datatype="html">
         <source>Vermittler</source>
         <target state="needs-adaptation">intermédiaires</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/crmplus/edpapps/umsatz/umsatzdetail/umsatzdetail.component.html</context>
           <context context-type="linenumber">79</context>
@@ -845,7 +843,6 @@
       <trans-unit id="position" datatype="html">
         <source>Position</source>
         <target state="needs-adaptation">position</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/crmplus/shared/components/auftragdetail/auftragdetail.component.html</context>
           <context context-type="linenumber">107</context>
@@ -898,7 +895,6 @@
       <trans-unit id="totalNet" datatype="html">
         <source>Total Netto</source>
         <target state="needs-adaptation">total net</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/crmplus/shared/components/auftragdetail/auftragdetail.component.html</context>
           <context context-type="linenumber">139</context>
@@ -911,7 +907,6 @@
       <trans-unit id="totalNetNet" datatype="html">
         <source>Total Netto Netto</source>
         <target state="needs-adaptation">total net net</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/crmplus/shared/components/auftragdetail/auftragdetail.component.html</context>
           <context context-type="linenumber">144</context>
@@ -936,7 +931,6 @@
       <trans-unit id="appearance" datatype="html">
         <source>Erscheinung</source>
         <target state="needs-adaptation">parution</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/crmplus/shared/components/auftragdetail/auftragdetail.component.html</context>
           <context context-type="linenumber">166</context>
@@ -1365,7 +1359,6 @@
       <trans-unit id="orderNumber" datatype="html">
         <source>Aufnr</source>
         <target state="needs-adaptation">numéro de commande</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/crmplus/shared/components/auftraglist/auftraglist.component.html</context>
           <context context-type="linenumber">18</context>
@@ -1494,7 +1487,6 @@
       <trans-unit id="newDate" datatype="html">
         <source>Neuer Termin</source>
         <target state="needs-adaptation">nouveau rendez-vous</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/crmplus/shared/components/cockpitnexttermin/cockpitnexttermin.component.html</context>
           <context context-type="linenumber">9</context>
@@ -1531,7 +1523,6 @@
       <trans-unit id="description" datatype="html">
         <source>Beschreibung</source>
         <target state="needs-adaptation">description</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/crmplus/shared/components/cockpitnexttermin/cockpitnexttermin.component.html</context>
           <context context-type="linenumber">42</context>
@@ -2917,7 +2908,6 @@
       <trans-unit id="newOffer" datatype="html">
         <source> Neue Offerte </source>
         <target state="needs-adaptation">nouvelle offre</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/shared/components/kundenfacts/kundenfacts.component.html</context>
           <context context-type="linenumber">335,337</context>
@@ -2928,7 +2918,6 @@
         <target state="needs-adaptation">
                         Abos
                     </target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/shared/components/kundenfacts/kundenfacts.component.html</context>
           <context context-type="linenumber">346,348</context>
@@ -2937,7 +2926,6 @@
       <trans-unit id="newAddress" datatype="html">
         <source> Verkaufsausgabe </source>
         <target state="needs-adaptation">édition à vendre</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/shared/components/kundenfacts/kundenfacts.component.html</context>
           <context context-type="linenumber">357,359</context>
@@ -2946,7 +2934,6 @@
       <trans-unit id="newSub" datatype="html">
         <source> Werbeauftragsliste </source>
         <target state="needs-adaptation">liste des commandes publicitaires</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/shared/components/kundenfacts/kundenfacts.component.html</context>
           <context context-type="linenumber">368,370</context>
@@ -2957,7 +2944,6 @@
         <target state="needs-adaptation">
                         Umsätze
                     </target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/shared/components/kundenfacts/kundenfacts.component.html</context>
           <context context-type="linenumber">379,381</context>
@@ -3014,7 +3000,6 @@
       <trans-unit id="deleteClientTT" datatype="html">
         <source>Termin löschen</source>
         <target state="needs-adaptation">effacer le client</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/shared/components/mainpanelhead/mainpanelhead.component.html</context>
           <context context-type="linenumber">12</context>
@@ -6622,7 +6607,6 @@
       <trans-unit id="642158f64bd5deb6ff53c70c3beeba8879df811c" datatype="html">
         <source>Sind sie sicher, dass sie den Workflow verwerfen wollen?<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/>Nicht gespeicherte Veränderungen werden verworfen.</source>
         <target state="needs-adaptation">Sind sie sicher, dass sie den Workflow verwerfen wollen?<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Nicht gespeicherte Veränderungen werden verworfen.</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/dialogs/discardworkflowdialog/discardworkflowdialog.component.html</context>
           <context context-type="linenumber">5</context>
@@ -6771,7 +6755,6 @@
       Erstellen/Editieren
       
     </target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/dialogs/newworkflowdialog/newworkflowdialog.component.html</context>
           <context context-type="linenumber">26,28</context>
@@ -7063,7 +7046,6 @@
       <trans-unit id="showsujetErscheinung" datatype="html">
         <source>eig. Sujet pro Erscheinung </source>
         <target state="needs-adaptation">eig. Sujet pro Erscheinung</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/components/werbemittel/werbemittel.component.html</context>
           <context context-type="linenumber">221,222</context>
@@ -7570,7 +7552,6 @@
       <trans-unit id="agentName" datatype="html">
         <source>Vermittlername</source>
         <target state="needs-adaptation">nom de l'intermédiaire</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
           <context context-type="linenumber">157</context>
@@ -7692,7 +7673,6 @@
         <source>Wählen Sie als erstes die gewünschte Dokumentenvorlage über das DropDown "Vorlage" oben in der Mitte der rechten Bildschirmspalte und erfassen Sie dann Ihre Offerte/Ihren Auftrag im linken Bildschirmbereich (oder bei freeform Vorlagen direkt im Dokument).</source>
         <target state="needs-adaptation">Sélectionnez d'abord le modèle de document souhaité via le menu déroulant "Modèle" en haut au milieu de la colonne de droite de l'écran.
                   puis saisissez votre offre/ordre dans la partie gauche de l'écran (ou directement dans le document pour les modèles de formulaire libre).</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
           <context context-type="linenumber">348,349</context>
@@ -8387,7 +8367,6 @@
       <trans-unit id="email" datatype="html">
         <source>E-Mail:</source>
         <target state="needs-adaptation">adresse mail</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">27</context>
@@ -9212,7 +9191,6 @@
         <source>Falls du Zugriff auf weitere Funktionalitäten benötigst, wende dich bitte an die zuständige Person in deinem Unternehmen. Alternativ kannst du auch uns kontaktieren</source>
         <target state="needs-adaptation">Si vous avez besoin d'accéder à des fonctionnalités supplémentaires, veuillez contacter la personne responsable de votre entreprise. 
     Vous pouvez également nous contacter à l'adresse suivante</target>
-        <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/shared/components/home/home.component.html</context>
           <context context-type="linenumber">36,37</context>
