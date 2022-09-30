@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file source-language="de-CH" datatype="plaintext" original="ng2.template" target-language="it">
+  <file source-language="de" datatype="plaintext" original="ng2.template">
     <body>
       <trans-unit id="browserBlocking" datatype="html">
         <source> Browser blockt URL. URL über Link in der Entwickler-Konsole (F12) bestätigen. Angezeigte Fehlermeldung (net::ERR_INSECURE_RESPONSE).
@@ -41,7 +41,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Nome utente</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/login/login.component.html</context>
-          <context context-type="linenumber">43</context>
+          <context context-type="linenumber">35</context>
         </context-group>
       </trans-unit>
       <trans-unit id="passwordPlaceholder" datatype="html">
@@ -49,7 +49,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Password</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/login/login.component.html</context>
-          <context context-type="linenumber">50</context>
+          <context context-type="linenumber">42</context>
         </context-group>
       </trans-unit>
       <trans-unit id="logon" datatype="html">
@@ -57,7 +57,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Connetti</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/login/login.component.html</context>
-          <context context-type="linenumber">58</context>
+          <context context-type="linenumber">50</context>
         </context-group>
       </trans-unit>
       <trans-unit id="sidenavSizeTT" datatype="html">
@@ -240,6 +240,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">197</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">40</context>
         </context-group>
@@ -248,12 +252,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">34</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">37</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">39</context>
+          <context context-type="linenumber">40</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -368,6 +368,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">57</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">51</context>
         </context-group>
@@ -376,12 +380,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">39</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">41</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">43</context>
+          <context context-type="linenumber">44</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -476,6 +476,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">65</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">69</context>
         </context-group>
@@ -484,12 +488,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">57</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">59</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">58</context>
+          <context context-type="linenumber">59</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -772,6 +772,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">5</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">24</context>
         </context-group>
@@ -780,12 +784,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">20</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">22</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">24</context>
+          <context context-type="linenumber">25</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -1068,6 +1068,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">283</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">84</context>
         </context-group>
@@ -1076,12 +1080,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">63</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">69</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">65</context>
+          <context context-type="linenumber">66</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -1200,6 +1200,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">198</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">73</context>
         </context-group>
@@ -1208,12 +1212,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">61</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">62</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">61</context>
+          <context context-type="linenumber">62</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -1531,10 +1531,6 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="sourcefile">src/app/tools/crm/crmplus/shared/components/kundenterminlist/kundenterminlist.component.html</context>
           <context context-type="linenumber">54</context>
         </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/components/zusatzpreisposition/zusatzpreisposition.component.html</context>
-          <context context-type="linenumber">12</context>
-        </context-group>
       </trans-unit>
       <trans-unit id="activity" datatype="html">
         <source>Aktivität</source>
@@ -1692,6 +1688,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">49</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">37</context>
         </context-group>
@@ -1700,12 +1700,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">32</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">35</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">37</context>
+          <context context-type="linenumber">38</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-4/a4-quer-4.component.html</context>
@@ -1844,6 +1840,14 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">60</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="8f09b9a1504338c79119cf59f2f0a296b04a16fe" datatype="html">
+        <source>Suchen in Abonnenten</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/crm/shared/components/aboheader/aboheader.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="5d691a02f9b4e650164177fd4f19931ca334d7b8" datatype="html">
         <source>Adress-Nr</source>
         <target state="needs-translation"/>
@@ -1888,6 +1892,14 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">47</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="c6861f67f06af28e7c6886180100ca0aebb61ee9" datatype="html">
+        <source> Suchen </source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/crm/shared/components/aboheader/aboheader.component.html</context>
+          <context context-type="linenumber">52,54</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="8206fc485d70c230931c617e61705c5607ec9364" datatype="html">
         <source>Erweiterte Suche</source>
         <target state="needs-translation"/>
@@ -1908,12 +1920,28 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">58</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="fec1af31667e3376ce735a555c4be1f1dbabf2ea" datatype="html">
+        <source>Suchen in ADRW</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/crm/shared/components/aboheader/aboheader.component.html</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="efb90c8811674df7a4f658f75b8f47e086f08fd7" datatype="html">
         <source>Inkl. Zuständiger</source>
         <target state="needs-translation"/>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/shared/components/aboheader/aboheader.component.html</context>
           <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3f1bdbc1cf1416a3de4397da675670e9fcbbaf5c" datatype="html">
+        <source>Tabelle Filtern</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/crm/shared/components/aboheader/aboheader.component.html</context>
+          <context context-type="linenumber">86</context>
         </context-group>
       </trans-unit>
       <trans-unit id="logInAs" datatype="html">
@@ -2057,7 +2085,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
-          <context context-type="linenumber">32</context>
+          <context context-type="linenumber">60</context>
         </context-group>
       </trans-unit>
       <trans-unit id="d32dfbd259933553173a4c22eafa25d0dc66f203" datatype="html">
@@ -2133,7 +2161,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
-          <context context-type="linenumber">33</context>
+          <context context-type="linenumber">63</context>
         </context-group>
       </trans-unit>
       <trans-unit id="92b4e18cd95d092b568899e1d28e95ac148d2bf8" datatype="html">
@@ -2198,6 +2226,22 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/shared/components/adresseanlegen/adresseanlegen.component.html</context>
           <context context-type="linenumber">305</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
+          <context context-type="linenumber">151</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
+          <context context-type="linenumber">140</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
@@ -2412,6 +2456,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">46</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">31</context>
         </context-group>
@@ -2420,12 +2468,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">26</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">29</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">31</context>
+          <context context-type="linenumber">32</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -2762,7 +2806,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="new">Springe auf den Markierten Eintrag zurück</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/shared/components/kundendetails/kundendetails.component.html</context>
-          <context context-type="linenumber">6</context>
+          <context context-type="linenumber">7</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/shared/components/testsearchpanel/testsearchpanel.component.html</context>
@@ -2778,7 +2822,11 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Telefono</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/shared/components/kundendetails/kundendetails.component.html</context>
-          <context context-type="linenumber">21</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">32</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
@@ -2789,12 +2837,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">28</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">31</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">33</context>
+          <context context-type="linenumber">34</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -2823,6 +2867,14 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-9/a4-quer-9.component.html</context>
           <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="hauptadresse" datatype="html">
+        <source>Hauptadresse</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/crm/shared/components/kundenfacts/kundenfacts.component.html</context>
+          <context context-type="linenumber">10</context>
         </context-group>
       </trans-unit>
       <trans-unit id="additionFirmOneTwo" datatype="html">
@@ -2895,6 +2947,14 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/shared/components/kundenfacts/kundenfacts.component.html</context>
           <context context-type="linenumber">172</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="64751cb7682c16048a79c7813362bf22ec70e6c3" datatype="html">
+        <source>Zuständige(r)</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/crm/shared/components/kundenfacts/kundenfacts.component.html</context>
+          <context context-type="linenumber">186</context>
         </context-group>
       </trans-unit>
       <trans-unit id="e6f60802c9e8e27858c66276845823a001572115" datatype="html">
@@ -3265,6 +3325,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abokategorien/abokategorien.component.html</context>
           <context context-type="linenumber">79</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/components/zusatzpreisposition/zusatzpreisposition.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="ac165a44512dac2b861a15c7f1bbc4a2439804f1" datatype="html">
         <source>Merkmal 1</source>
@@ -3396,6 +3460,14 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
           <context context-type="linenumber">126</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
+          <context context-type="linenumber">60</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
@@ -3559,7 +3631,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/adresssuche/adresssuche.component.html</context>
-          <context context-type="linenumber">52</context>
+          <context context-type="linenumber">53</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/dialogs/adrauswahldialog/adrauswahldialog.component.html</context>
@@ -3591,7 +3663,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/adresssuche/adresssuche.component.html</context>
-          <context context-type="linenumber">67</context>
+          <context context-type="linenumber">68</context>
         </context-group>
       </trans-unit>
       <trans-unit id="da12d5d22b6869772ef4c43ff6249cfa80b99938" datatype="html">
@@ -3603,7 +3675,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/adresssuche/adresssuche.component.html</context>
-          <context context-type="linenumber">72</context>
+          <context context-type="linenumber">73</context>
         </context-group>
       </trans-unit>
       <trans-unit id="f570cf118b1c755d48fd79031d9dfdc441ee4847" datatype="html">
@@ -3615,7 +3687,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/adresssuche/adresssuche.component.html</context>
-          <context context-type="linenumber">57</context>
+          <context context-type="linenumber">58</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ed37dcd55787de115dbd112d42f48aee50527f28" datatype="html">
@@ -3707,7 +3779,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/adresssuche/adresssuche.component.html</context>
-          <context context-type="linenumber">62</context>
+          <context context-type="linenumber">63</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4e4f05014cd28d2ea50c1a0f2ae74d50c0efc905" datatype="html">
@@ -3876,6 +3948,14 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/crm/shared/components/update-neuer-kunde-formular/update-neuer-kunde-formular.component.html</context>
           <context context-type="linenumber">358</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
+          <context context-type="linenumber">48</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
@@ -4174,8 +4254,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">11</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="719ece9857c2ffecd6a156575fda81245b15ceb0" datatype="html">
-        <source> Bitte mit der Suchfunktion die<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> gewünschten Einträge suchen. </source>
+      <trans-unit id="081f5532e87ec3269b60ca6a31bc1d155afbb6a7" datatype="html">
+        <source> Bitte mit der Suchfunktion die gewünschten Einträge suchen. </source>
         <target state="needs-translation"/>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/abodetail/abodetail.component.html</context>
@@ -4304,6 +4384,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
           <context context-type="linenumber">66</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
+          <context context-type="linenumber">111</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
@@ -4622,6 +4706,14 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">10</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="020ecb7454a205760ce6e69026213293fc63e45e" datatype="html">
+        <source>BezNr</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
+          <context context-type="linenumber">122</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="bb9e59e0e87f9b2fae9114f05f445eb0b5828ff0" datatype="html">
         <source>Nachlief.</source>
         <target state="new">Nachlief.</target>
@@ -4710,6 +4802,14 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">21</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="c518034af4a7845f8b538f8b112f906a81aa0c30" datatype="html">
+        <source> als interne Mutation </source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
+          <context context-type="linenumber">242,244</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="36e6593a16430190a20a438246d56602ba680401" datatype="html">
         <source>Reset (F2)</source>
         <target state="new">Reset (F2)</target>
@@ -4761,6 +4861,38 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
           <context context-type="linenumber">32</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="71134e1f8e386768460814d4d54b826ea9e1790a" datatype="html">
+        <source>Adresse</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d5015e904adecdf51f40107a7c90b5acbbca3c49" datatype="html">
+        <source>Versandart</source>
+        <target state="new">Versandart</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
+          <context context-type="linenumber">311</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="80642f1a6b20c66c02c2c3f5f3652cd47cabe8b0" datatype="html">
+        <source>Fakt. Code</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
+          <context context-type="linenumber">106</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="63f82a16a2315235affc827cfddee3e7dd8b1d15" datatype="html">
         <source>Abw. Menge</source>
@@ -4808,6 +4940,14 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
           <context context-type="linenumber">386</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a39f2823e5915d29662a962a441e7e2791f71273" datatype="html">
+        <source> als interne Mutation </source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
+          <context context-type="linenumber">215,217</context>
         </context-group>
       </trans-unit>
       <trans-unit id="54b0a4e4c166be4a0748c701ee64a7adffa01009" datatype="html">
@@ -4860,6 +5000,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
           <context context-type="linenumber">63</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
+          <context context-type="linenumber">10</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
@@ -5019,15 +5163,11 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
-          <context context-type="linenumber">147</context>
+          <context context-type="linenumber">14</context>
         </context-group>
-      </trans-unit>
-      <trans-unit id="d5015e904adecdf51f40107a7c90b5acbbca3c49" datatype="html">
-        <source>Versandart</source>
-        <target state="new">Versandart</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
-          <context context-type="linenumber">311</context>
+          <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
+          <context context-type="linenumber">147</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6698b506c1c77fea2ae0b9cf6f7d3f9aa89e15f2" datatype="html">
@@ -5863,6 +6003,78 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">13</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="374b1832aee099bc990686c7cf4db7ee30a6584e" datatype="html">
+        <source>Code-Art</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1caeb019ae287a584ebea465826845dea26c1a1b" datatype="html">
+        <source>Code-Wert</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="009e02188f01685c93453866bceff7a4e884e6c5" datatype="html">
+        <source>Code-laenge</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6f5855530e32f26e0d104bac72de2062a0c5f80b" datatype="html">
+        <source>Code-Kz</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d491c5fb7a27a18b3c85da8b83c8b0f2fa53a4f1" datatype="html">
+        <source>Code-Text</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fe8cfa85f46585b421207f5182bd797459b4e954" datatype="html">
+        <source>Code-Text1</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8b6197a3d4d460c1f7624cbd50251a901fc74535" datatype="html">
+        <source>Code-Text2</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="479fabd48cae67a01dc0b193062b7513a2a3f994" datatype="html">
         <source>Suchen</source>
         <target state="needs-translation"/>
@@ -5901,14 +6113,6 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
           <context context-type="linenumber">98</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="374b1832aee099bc990686c7cf4db7ee30a6584e" datatype="html">
-        <source>Code-Art</source>
-        <target state="needs-translation"/>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
-          <context context-type="linenumber">113</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2f64bc655e605d428d6da6d6bf6d99727422e971" datatype="html">
@@ -6219,6 +6423,18 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="44b7819e1ef6db082bea8b694ad5861f43d18e36" datatype="html">
+        <source>Rechnungsadresse</source>
+        <target state="new">Rechnungsadresse</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
+          <context context-type="linenumber">150</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="a665756affc169e133b114027b8dd714f2539e2f" datatype="html">
         <source>Bezahlung</source>
         <target state="needs-translation"/>
@@ -6373,14 +6589,6 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
           <context context-type="linenumber">122</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="44b7819e1ef6db082bea8b694ad5861f43d18e36" datatype="html">
-        <source>Rechnungsadresse</source>
-        <target state="new">Rechnungsadresse</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
-          <context context-type="linenumber">150</context>
         </context-group>
       </trans-unit>
       <trans-unit id="358b61c5314b8878fc6b8f33840cfc44552864af" datatype="html">
@@ -6856,12 +7064,60 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">3</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="f17f4c46688d27f7c02c9a2fb1453ab6e5d9645c" datatype="html">
+        <source>Papierrechnung</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ff87dfb23cb98e890a1e2e7cc53c21fb504c7919" datatype="html">
+        <source>Mailrechnung</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="eee6a30864a4c525e2d0883fc94bd4ca209127b2" datatype="html">
+        <source>eBill</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3c13a6d58ff20c3d07cf50a0f47a78c5cdccfa99" datatype="html">
+        <source> Adresse fehlt! </source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
+          <context context-type="linenumber">27,29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b8e1ecca5a752f380bc09b8436c8f37805ba2a66" datatype="html">
+        <source> E-Mail fehlt! </source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
+          <context context-type="linenumber">37,39</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="4dd19417265f454083fe3a03c84e662060a69aa1" datatype="html">
         <source>(Die PID wird vom eBill-Verarbeiter bei der Anmeldung dem Rechnungssteller zugestellt)</source>
         <target state="needs-translation"/>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
-          <context context-type="linenumber">26</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="36dbca01e5db829a115a52e9a9e4ee93fc66f63e" datatype="html">
+        <source> PID fehlt! </source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
+          <context context-type="linenumber">49,51</context>
         </context-group>
       </trans-unit>
       <trans-unit id="d68470ec4f0c259c132b5b356bae5941caeb4276" datatype="html">
@@ -6889,6 +7145,14 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">58</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">76</context>
         </context-group>
@@ -6897,20 +7161,12 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">80</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
           <context context-type="linenumber">64</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
           <context context-type="linenumber">65</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">63</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">64</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -7111,6 +7367,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">74</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">117</context>
         </context-group>
@@ -7119,12 +7379,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">95</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">102</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">92</context>
+          <context context-type="linenumber">93</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -7184,6 +7440,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">74</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">119</context>
         </context-group>
@@ -7192,12 +7452,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">97</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">102</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">92</context>
+          <context context-type="linenumber">93</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -7449,6 +7705,14 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">57</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="csverstellen" datatype="html">
+        <source>CSV erstellen</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="jsonInspector" datatype="html">
         <source>JSON-Inspector</source>
         <target state="final">JSON-Inpector</target>
@@ -7482,7 +7746,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">195</context>
+          <context context-type="linenumber">196</context>
         </context-group>
       </trans-unit>
       <trans-unit id="nameDoc" datatype="html">
@@ -7494,7 +7758,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">204</context>
+          <context context-type="linenumber">205</context>
         </context-group>
       </trans-unit>
       <trans-unit id="letterMinimum" datatype="html">
@@ -7506,7 +7770,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">205</context>
+          <context context-type="linenumber">206</context>
         </context-group>
       </trans-unit>
       <trans-unit id="dateOfIssue" datatype="html">
@@ -7514,7 +7778,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">data creazione</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">111</context>
+          <context context-type="linenumber">112</context>
         </context-group>
       </trans-unit>
       <trans-unit id="rateFrom" datatype="html">
@@ -7522,7 +7786,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Tariffa da</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">117</context>
+          <context context-type="linenumber">118</context>
         </context-group>
       </trans-unit>
       <trans-unit id="indivTitle" datatype="html">
@@ -7530,7 +7794,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Introduzione personale</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">127</context>
+          <context context-type="linenumber">128</context>
         </context-group>
       </trans-unit>
       <trans-unit id="contacting" datatype="html">
@@ -7538,7 +7802,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Contatto nome</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">138</context>
+          <context context-type="linenumber">139</context>
         </context-group>
       </trans-unit>
       <trans-unit id="contactNum" datatype="html">
@@ -7546,7 +7810,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">No. Contatto</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">145</context>
+          <context context-type="linenumber">146</context>
         </context-group>
       </trans-unit>
       <trans-unit id="agentName" datatype="html">
@@ -7554,7 +7818,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="needs-adaptation">Nome intermediario</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">157</context>
+          <context context-type="linenumber">158</context>
         </context-group>
       </trans-unit>
       <trans-unit id="d21319c0f83009af873a79a6cb5a4f456c129713" datatype="html">
@@ -7562,7 +7826,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="needs-translation"/>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">168</context>
+          <context context-type="linenumber">169</context>
         </context-group>
       </trans-unit>
       <trans-unit id="d5e48b39ba00fc64d21b9199e019b5d1f2646e89" datatype="html">
@@ -7570,7 +7834,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="needs-translation"/>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">175</context>
+          <context context-type="linenumber">176</context>
         </context-group>
       </trans-unit>
       <trans-unit id="introduction" datatype="html">
@@ -7578,7 +7842,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Testo introduttivo personale</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">181</context>
+          <context context-type="linenumber">182</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ending" datatype="html">
@@ -7586,7 +7850,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Conclusione</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">185</context>
+          <context context-type="linenumber">186</context>
         </context-group>
       </trans-unit>
       <trans-unit id="discountAddition" datatype="html">
@@ -7594,7 +7858,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Ribassi/supplementi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">254</context>
+          <context context-type="linenumber">255</context>
         </context-group>
       </trans-unit>
       <trans-unit id="pricePosition" datatype="html">
@@ -7602,7 +7866,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Scegliere pos. rib/suppl</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">255</context>
+          <context context-type="linenumber">256</context>
         </context-group>
       </trans-unit>
       <trans-unit id="addPricePosition" datatype="html">
@@ -7610,7 +7874,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">aggiungere posizione scelta</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">265</context>
+          <context context-type="linenumber">266</context>
         </context-group>
       </trans-unit>
       <trans-unit id="addPagebreak" datatype="html">
@@ -7618,7 +7882,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Inserire interruzione di pagina</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">283</context>
+          <context context-type="linenumber">284</context>
         </context-group>
       </trans-unit>
       <trans-unit id="addAdMedium" datatype="html">
@@ -7626,7 +7890,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Aggiungere soggetto pubblicitario</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">288</context>
+          <context context-type="linenumber">289</context>
         </context-group>
       </trans-unit>
       <trans-unit id="addObject" datatype="html">
@@ -7634,7 +7898,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Aggiungere titolo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">297</context>
+          <context context-type="linenumber">298</context>
         </context-group>
       </trans-unit>
       <trans-unit id="model" datatype="html">
@@ -7642,7 +7906,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">modello</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">320</context>
+          <context context-type="linenumber">321</context>
         </context-group>
       </trans-unit>
       <trans-unit id="chooseModel" datatype="html">
@@ -7650,7 +7914,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">scegliere modello</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">322</context>
+          <context context-type="linenumber">323</context>
         </context-group>
       </trans-unit>
       <trans-unit id="welcomeMessageA" datatype="html">
@@ -7658,7 +7922,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Benvenuti ds</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">347</context>
+          <context context-type="linenumber">348</context>
         </context-group>
       </trans-unit>
       <trans-unit id="welcomeMessageB" datatype="html">
@@ -7666,7 +7930,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">edpOffert- &amp; Auftrags-Tool</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">347</context>
+          <context context-type="linenumber">348</context>
         </context-group>
       </trans-unit>
       <trans-unit id="tutorialText" datatype="html">
@@ -7674,7 +7938,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="needs-adaptation">Scegliete il modello dal menu a tendina in alto al centro del riquadro di destra e compilate la vostra offerta sul riquadro di sinistra.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
-          <context context-type="linenumber">348,349</context>
+          <context context-type="linenumber">349,350</context>
         </context-group>
       </trans-unit>
       <trans-unit id="44919cef220dad04bc7a178de97a03f1a6691c35" datatype="html">
@@ -8138,6 +8402,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">111</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">124</context>
         </context-group>
@@ -8146,12 +8414,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">102</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">104</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">94</context>
+          <context context-type="linenumber">95</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -8271,6 +8535,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <source>Kunden-Nr.</source>
         <target state="final">No. Cliente</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">17</context>
         </context-group>
@@ -8279,12 +8547,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">13</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">16</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">17</context>
+          <context context-type="linenumber">18</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -8319,6 +8583,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <source>Ihr Kontakt</source>
         <target state="final">Il Suo contatto</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">19</context>
         </context-group>
@@ -8327,12 +8595,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">15</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">18</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">19</context>
+          <context context-type="linenumber">20</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -8367,6 +8631,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <source>E-Mail:</source>
         <target state="needs-adaptation">email</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">27</context>
         </context-group>
@@ -8375,12 +8643,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">22</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">25</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">27</context>
+          <context context-type="linenumber">28</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -8411,32 +8675,20 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">25</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="ref" datatype="html">
-        <source>Ref</source>
-        <target state="needs-translation"/>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
-          <context context-type="linenumber">45</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-4/a4-quer-4.component.html</context>
-          <context context-type="linenumber">45</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="0361f66b71c9b85c62a1890ccf54b6a1217e40c2" datatype="html">
         <source>Auflage/</source>
         <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">70</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">60</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">59</context>
+          <context context-type="linenumber">60</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -8463,16 +8715,16 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <source>Reichweite</source>
         <target state="new">Reichweite</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">70</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">60</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">59</context>
+          <context context-type="linenumber">60</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -8499,6 +8751,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <source>Kosten</source>
         <target state="final">Costi</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">71</context>
         </context-group>
@@ -8507,12 +8763,8 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">59</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">61</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">60</context>
+          <context context-type="linenumber">61</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -8543,16 +8795,16 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <source>pro Erscheinung</source>
         <target state="final">per pubblicazione</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">72</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">61</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">60</context>
+          <context context-type="linenumber">61</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -8579,16 +8831,16 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <source>Ersch.</source>
         <target state="final">Apparso</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">74</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">62</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">61</context>
+          <context context-type="linenumber">62</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -8619,16 +8871,16 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <source>Total Brutto</source>
         <target state="final">Totale lordo</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">75</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">63</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">62</context>
+          <context context-type="linenumber">63</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -8655,6 +8907,14 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <source>WH-Rabatt</source>
         <target state="final">ribasso ripetizione</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
           <context context-type="linenumber">77</context>
         </context-group>
@@ -8663,20 +8923,12 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="linenumber">81</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
           <context context-type="linenumber">64</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
           <context context-type="linenumber">65</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">63</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">64</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -8718,146 +8970,11 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-9/a4-quer-9.component.html</context>
           <context context-type="linenumber">65</context>
         </context-group>
-      </trans-unit>
-      <trans-unit id="cb0f69bdd4dea41d7d45c74b6e07f98de8a2ab26" datatype="html">
-        <source>in</source>
-        <target state="needs-translation"/>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
-          <context context-type="linenumber">77</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
-          <context context-type="linenumber">81</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">63</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">64</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-4/a4-quer-4.component.html</context>
-          <context context-type="linenumber">77</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-4/a4-quer-4.component.html</context>
-          <context context-type="linenumber">81</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-8/a4-quer-8.component.html</context>
-          <context context-type="linenumber">63</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-8/a4-quer-8.component.html</context>
-          <context context-type="linenumber">64</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="totalNetSlashNetB" datatype="html">
-        <source>Netto/Netto</source>
-        <target state="final">Netto/Netto</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
-          <context context-type="linenumber">85</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-11/a4-quer-11.component.html</context>
-          <context context-type="linenumber">64</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">69</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">65</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
-          <context context-type="linenumber">69</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-4/a4-quer-4.component.html</context>
-          <context context-type="linenumber">85</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-5/a4-quer-5.component.html</context>
-          <context context-type="linenumber">64</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-6/a4-quer-6.component.html</context>
-          <context context-type="linenumber">79</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-7/a4-quer-7.component.html</context>
-          <context context-type="linenumber">69</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-8/a4-quer-8.component.html</context>
-          <context context-type="linenumber">65</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-9/a4-quer-9.component.html</context>
-          <context context-type="linenumber">69</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="businessconditionsWOmwst" datatype="html">
-        <source>Daten-, Tarif- und Grössenänderungen vorbehalten. Die Preise verstehen sich in CHF, exkl. Mehrwertsteuer. Es gelten die allgemeinen Geschäftsbedingungen.</source>
-        <target state="final">Dati, Tariffe, Grandezze con riserva SEoO. I prezzi si intendono in CHF, IVA Escl.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
-          <context context-type="linenumber">191</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-11/a4-quer-11.component.html</context>
-          <context context-type="linenumber">140</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">171</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">147</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
-          <context context-type="linenumber">172</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-4/a4-quer-4.component.html</context>
-          <context context-type="linenumber">191</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-5/a4-quer-5.component.html</context>
-          <context context-type="linenumber">140</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-6/a4-quer-6.component.html</context>
-          <context context-type="linenumber">246</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-7/a4-quer-7.component.html</context>
-          <context context-type="linenumber">171</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-8/a4-quer-8.component.html</context>
-          <context context-type="linenumber">147</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-9/a4-quer-9.component.html</context>
-          <context context-type="linenumber">172</context>
-        </context-group>
+        <note priority="1" from="description">Wiederholungsrabatt</note>
       </trans-unit>
       <trans-unit id="completionWHpercentC" datatype="html">
         <source>in</source>
         <target state="final">in</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">64</context>
-        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
           <context context-type="linenumber">65</context>
@@ -8869,6 +8986,10 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
           <context context-type="linenumber">67</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">68</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -8924,11 +9045,11 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Speciale</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">66</context>
+          <context context-type="linenumber">67</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">67</context>
+          <context context-type="linenumber">68</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -8960,11 +9081,11 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Ribasso</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">66</context>
+          <context context-type="linenumber">67</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">67</context>
+          <context context-type="linenumber">68</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -8996,7 +9117,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Com</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">68</context>
+          <context context-type="linenumber">69</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -9017,7 +9138,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">missione</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">68</context>
+          <context context-type="linenumber">69</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -9038,7 +9159,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <target state="final">Agenzia</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">68</context>
+          <context context-type="linenumber">69</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
@@ -9054,16 +9175,64 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         </context-group>
         <note priority="1" from="description">Beraterkommission 3. Teil</note>
       </trans-unit>
+      <trans-unit id="totalNetSlashNetB" datatype="html">
+        <source>Netto/Netto</source>
+        <target state="final">Netto/Netto</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-11/a4-quer-11.component.html</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-4/a4-quer-4.component.html</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-5/a4-quer-5.component.html</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-6/a4-quer-6.component.html</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-7/a4-quer-7.component.html</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-8/a4-quer-8.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-9/a4-quer-9.component.html</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="yourInvestment" datatype="html">
         <source>Ihre Investition</source>
         <target state="final">Il Suo Investimento</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
-          <context context-type="linenumber">161</context>
+          <context context-type="linenumber">162</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
-          <context context-type="linenumber">137</context>
+          <context context-type="linenumber">138</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-7/a4-quer-7.component.html</context>
@@ -9072,6 +9241,102 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-8/a4-quer-8.component.html</context>
           <context context-type="linenumber">137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="businessconditionsWOmwst" datatype="html">
+        <source>Daten-, Tarif- und Grössenänderungen vorbehalten. Die Preise verstehen sich in CHF, exkl. Mehrwertsteuer. Es gelten die allgemeinen Geschäftsbedingungen.</source>
+        <target state="final">Dati, Tariffe, Grandezze con riserva SEoO. I prezzi si intendono in CHF, IVA Escl.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
+          <context context-type="linenumber">172</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
+          <context context-type="linenumber">191</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-11/a4-quer-11.component.html</context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-3/a4-quer-3.component.html</context>
+          <context context-type="linenumber">172</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-4/a4-quer-4.component.html</context>
+          <context context-type="linenumber">191</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-5/a4-quer-5.component.html</context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-6/a4-quer-6.component.html</context>
+          <context context-type="linenumber">246</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-7/a4-quer-7.component.html</context>
+          <context context-type="linenumber">171</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-8/a4-quer-8.component.html</context>
+          <context context-type="linenumber">147</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-9/a4-quer-9.component.html</context>
+          <context context-type="linenumber">172</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ref" datatype="html">
+        <source>Ref</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-4/a4-quer-4.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cb0f69bdd4dea41d7d45c74b6e07f98de8a2ab26" datatype="html">
+        <source>in</source>
+        <target state="needs-translation"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-2/a4-quer-2.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-4/a4-quer-4.component.html</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-4/a4-quer-4.component.html</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-8/a4-quer-8.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-8/a4-quer-8.component.html</context>
+          <context context-type="linenumber">64</context>
         </context-group>
       </trans-unit>
       <trans-unit id="title" datatype="html">
