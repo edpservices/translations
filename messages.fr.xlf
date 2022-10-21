@@ -2114,7 +2114,7 @@
           </trans-unit>
           <trans-unit id="05d6def11b80c405276ad18c4fc5183e8cea4f75" datatype="html">
             <source>Speichern</source>
-            <target state="new">Speichern</target>
+            <target state="final">sauver</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/crm/shared/components/adresseanlegen/adresseanlegen.component.html</context>
               <context context-type="linenumber">40</context>
