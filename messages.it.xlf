@@ -6844,7 +6844,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="be5c752b58791dd799bc5d5482d4351e06f18673" datatype="html">
             <source>Ok</source>
-            <target state="new"></target>
+            <target state="final">Ok</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/mavlnotification/mavlnotification.component.html</context>
               <context context-type="linenumber">15</context>
@@ -6860,7 +6860,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="8ba143716c2da6e4120c0c1a804f0bdd9a7e5f5b" datatype="html">
             <source>Text</source>
-            <target state="new"></target>
+            <target state="final">Testo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/memodialog/memodialog.component.html</context>
               <context context-type="linenumber">31</context>
@@ -6876,7 +6876,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="90e2f1cfa127ca7b3f12bcd473837cfbe447eb75" datatype="html">
             <source>Keine</source>
-            <target state="new"></target>
+            <target state="final">Nessuno</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/memodialog/memodialog.component.html</context>
               <context context-type="linenumber">40</context>
@@ -6884,7 +6884,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="2d2a3dd6a59a9a9b6bd5ccbda586c43a83fde8b7" datatype="html">
             <source>Automatisch</source>
-            <target state="new"></target>
+            <target state="final">Automatico</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/memodialog/memodialog.component.html</context>
               <context context-type="linenumber">41</context>
@@ -6892,7 +6892,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="7cf1f98a668846307aba2dba8a78001eca3cd0e9" datatype="html">
             <source>Auf Wunsch</source>
-            <target state="new"></target>
+            <target state="final">Su richiesta</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/memodialog/memodialog.component.html</context>
               <context context-type="linenumber">42</context>
@@ -6900,7 +6900,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a919b0167ed6557b9cbbfe914482a3d92c5b3eb1" datatype="html">
             <source>Neues Memo erstellen</source>
-            <target state="new"></target>
+            <target state="final">Creare nuova nota</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/memodialog/memodialog.component.html</context>
               <context context-type="linenumber">54</context>
@@ -6908,7 +6908,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="8e22e9d93d0c89e63533db80c40fd8f253d123ae" datatype="html">
             <source>Fertig</source>
-            <target state="new"></target>
+            <target state="final">Finito</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/memodialog/memodialog.component.html</context>
               <context context-type="linenumber">60</context>
