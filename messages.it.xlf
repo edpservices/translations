@@ -6828,7 +6828,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <trans-unit id="6b1b06caa2658ac02d269a2eb5c930c2ef768619" datatype="html">
             <source> Diese Aktion kann dazu f&#xFC;hren, dass Daten verloren gehen. Wollen sie die Aktion trotzdem ausf&#xFC;hren?
 </source>
-            <target state="new"></target>
+            <target state="final">Questa azione pu&#xF2; portare alla perdita di dati. Volete procedere lo stesso?</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/liefunregdialog/liefunregdialog.component.html</context>
               <context context-type="linenumber">6</context>
@@ -6836,7 +6836,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="dc316c46f83c7c042f76abad4dd093dbc5283c9d" datatype="html">
             <source>Mailvorlage Auswahl</source>
-            <target state="new"></target>
+            <target state="final">Scegli modello mail</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/mailtodeluxedialog/mailtodeluxedialog.component.html</context>
               <context context-type="linenumber">2</context>
@@ -6852,7 +6852,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="03b870eddca16101be4dccda9cbfc79cccab94f2" datatype="html">
             <source>Bearbeiten</source>
-            <target state="new"></target>
+            <target state="final">Modificare</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/memodialog/memodialog.component.html</context>
               <context context-type="linenumber">15</context>
@@ -6868,7 +6868,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="baf7525bfb68d5be718caac1ffe95b6a92d74b35" datatype="html">
             <source>Prio</source>
-            <target state="new"></target>
+            <target state="final">Prioritario</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/memodialog/memodialog.component.html</context>
               <context context-type="linenumber">37</context>
@@ -6916,7 +6916,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="3254af9acb61fe6a3c6577be47bbe5c382890ce1" datatype="html">
             <source>Einstellungen</source>
-            <target state="new">Einstellungen</target>
+            <target state="final">Impostazioni</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/newworkflowdialog/newworkflowdialog.component.html</context>
               <context context-type="linenumber">2</context>
@@ -6924,7 +6924,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="f58ca45bbdff3bcdccf539b620b7ad4cfd8f609d" datatype="html">
             <source>Auf was wollen sie den neuen Workflow basieren?</source>
-            <target state="new">Auf was wollen sie den neuen Workflow basieren?</target>
+            <target state="final">Su cosa volete basare il nuovo workflow?</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/newworkflowdialog/newworkflowdialog.component.html</context>
               <context context-type="linenumber">7</context>
@@ -6932,7 +6932,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="837fb7310008295c7d00642a56dcd0518685edb1" datatype="html">
             <source>Vorlage</source>
-            <target state="new">Vorlage</target>
+            <target state="final">Modello</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/newworkflowdialog/newworkflowdialog.component.html</context>
               <context context-type="linenumber">12</context>
@@ -6940,7 +6940,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="44800f434f3adfb06d54928a39d0c7d4ca35f464" datatype="html">
             <source>Leere Vorlage</source>
-            <target state="new">Leere Vorlage</target>
+            <target state="final">Modello vuoto</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/newworkflowdialog/newworkflowdialog.component.html</context>
               <context context-type="linenumber">13</context>
@@ -6948,7 +6948,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="e88ea259ab8a9050d576f486f291aef3f4f169ce" datatype="html">
             <source>Neuer Workflow / Workflow editieren</source>
-            <target state="new">Neuer Workflow / Workflow editieren</target>
+            <target state="final">Nuovo workflow /Modifica workflow</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/newworkflowdialog/newworkflowdialog.component.html</context>
               <context context-type="linenumber">19</context>
