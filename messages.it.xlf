@@ -6967,7 +6967,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d84831dc99e1e7530c36562bdbfc0cb7c7af5ac9" datatype="html">
             <source>Preis&#xFC;bersicht</source>
-            <target state="new"></target>
+            <target state="final">Anteprima prezzo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/preisanzeigedialog/preisanzeigedialog.component.html</context>
               <context context-type="linenumber">2</context>
@@ -6975,7 +6975,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="268e049161d85fe0f85f4d0348473251cf7011de" datatype="html">
             <source>CondNr</source>
-            <target state="new">CondNr</target>
+            <target state="final">Codice Nr.</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/preisanzeigedialog/preisanzeigedialog.component.html</context>
               <context context-type="linenumber">11</context>
@@ -6983,7 +6983,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d1557841b226a88b09c9e7e2e61e6373c2ea89f1" datatype="html">
             <source>Schl&#xFC;ssel</source>
-            <target state="new">Schl&#xFC;ssel</target>
+            <target state="final">Chiave</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/preisanzeigedialog/preisanzeigedialog.component.html</context>
               <context context-type="linenumber">12</context>
@@ -6991,7 +6991,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="b1318f9a2f3af0d6dab9195065bcc438a444cc3a" datatype="html">
             <source>Betrag</source>
-            <target state="new">Betrag</target>
+            <target state="final">Importo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/preisanzeigedialog/preisanzeigedialog.component.html</context>
               <context context-type="linenumber">15</context>
@@ -6999,7 +6999,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="7daee1b49d1519ae093abce57ccbd308e3f895f0" datatype="html">
             <source>Betrag(intern)</source>
-            <target state="new">Betrag(intern)</target>
+            <target state="final">Importo (interno)</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/preisanzeigedialog/preisanzeigedialog.component.html</context>
               <context context-type="linenumber">17</context>
@@ -7007,7 +7007,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="f769409168da086d7680178523c6e4427542df2a" datatype="html">
             <source>Porto</source>
-            <target state="new">Porto</target>
+            <target state="final">Porto</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/preisanzeigedialog/preisanzeigedialog.component.html</context>
               <context context-type="linenumber">65</context>
@@ -7015,7 +7015,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="ec13ed6255216c8edc4d55f3e92b896c3b72bec6" datatype="html">
             <source>Total vor Steuern:</source>
-            <target state="new">Total vor Steuern:</target>
+            <target state="final">Totale iva escl.</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/preisanzeigedialog/preisanzeigedialog.component.html</context>
               <context context-type="linenumber">76</context>
@@ -7023,7 +7023,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d59a6610a3e51d43215be0075729e9bb72c9619d" datatype="html">
             <source>MWST</source>
-            <target state="new">MWST</target>
+            <target state="final">iva</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/preisanzeigedialog/preisanzeigedialog.component.html</context>
               <context context-type="linenumber">87</context>
@@ -7035,7 +7035,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="68572de01b84c678be4bf8a27b990ecac2f41ce9" datatype="html">
             <source>Code</source>
-            <target state="new">Code</target>
+            <target state="final">Codice</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/preisanzeigedialog/preisanzeigedialog.component.html</context>
               <context context-type="linenumber">88</context>
@@ -7047,7 +7047,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="1ba671347241c66a9d00fc7111f628c2ebc1d66f" datatype="html">
             <source>Gesamttotal</source>
-            <target state="new">Gesamttotal</target>
+            <target state="final">Totale generale</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/preisanzeigedialog/preisanzeigedialog.component.html</context>
               <context context-type="linenumber">107</context>
@@ -7055,7 +7055,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="0b43fddc2355f00b85ac9526036d1f1f49572ba8" datatype="html">
             <source>&#xC4;ndern der Rechnungsart</source>
-            <target state="new"></target>
+            <target state="final">Modificare il tipo di fattura</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
               <context context-type="linenumber">3</context>
@@ -7063,7 +7063,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="f17f4c46688d27f7c02c9a2fb1453ab6e5d9645c" datatype="html">
             <source>Papierrechnung</source>
-            <target state="new"></target>
+            <target state="final">Fattura cartacea</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
               <context context-type="linenumber">10</context>
@@ -7071,7 +7071,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="ff87dfb23cb98e890a1e2e7cc53c21fb504c7919" datatype="html">
             <source>Mailrechnung</source>
-            <target state="new"></target>
+            <target state="final">fattura per mail</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
               <context context-type="linenumber">14</context>
@@ -7079,7 +7079,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="eee6a30864a4c525e2d0883fc94bd4ca209127b2" datatype="html">
             <source>eBill</source>
-            <target state="new"></target>
+            <target state="final">eBill</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
               <context context-type="linenumber">18</context>
@@ -7087,7 +7087,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="3c13a6d58ff20c3d07cf50a0f47a78c5cdccfa99" datatype="html">
             <source> Adresse fehlt! </source>
-            <target state="new"></target>
+            <target state="final">Manca Indirizzo!</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
               <context context-type="linenumber">27</context>
@@ -7095,7 +7095,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="b8e1ecca5a752f380bc09b8436c8f37805ba2a66" datatype="html">
             <source> E-Mail fehlt! </source>
-            <target state="new"></target>
+            <target state="final">Manca email!</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
               <context context-type="linenumber">37</context>
@@ -7103,7 +7103,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="4dd19417265f454083fe3a03c84e662060a69aa1" datatype="html">
             <source>(Die PID wird vom eBill-Verarbeiter bei der Anmeldung dem Rechnungssteller zugestellt)</source>
-            <target state="new"></target>
+            <target state="final">(Il PID viene inviato al fatturatore dall&#x27;elaboratore di eBill al momento della registrazione).</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
               <context context-type="linenumber">47</context>
@@ -7111,7 +7111,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="36dbca01e5db829a115a52e9a9e4ee93fc66f63e" datatype="html">
             <source> PID fehlt! </source>
-            <target state="new"></target>
+            <target state="final">manca PID!</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/rechnadrchangedialog/rechnadrchangedialog.component.html</context>
               <context context-type="linenumber">49</context>
@@ -7120,7 +7120,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <trans-unit id="d68470ec4f0c259c132b5b356bae5941caeb4276" datatype="html">
             <source> Mail-Vorlage wirklich versenden?
 </source>
-            <target state="new"></target>
+            <target state="final">Siete sicuri di spedire la bozza email?</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/sendmavldialog/sendmavldialog.component.html</context>
               <context context-type="linenumber">9</context>
@@ -7208,7 +7208,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="3436f4875c3a55ba917263f2e5c3421b1439cc6d" datatype="html">
             <source>kein Abschluss</source>
-            <target state="new"></target>
+            <target state="final">Senza contratto</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/components/titel/titel.component.html</context>
               <context context-type="linenumber">62</context>
@@ -7216,7 +7216,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="1c4b59a40fd07634192ab8e91348f58929280829" datatype="html">
             <source>Kombivariante</source>
-            <target state="new"></target>
+            <target state="final">Variante-combi</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/components/titel/titel.component.html</context>
               <context context-type="linenumber">72</context>
@@ -7232,7 +7232,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="9cdc1a6a090cad0a428e1f406c2e31a2876f63ff" datatype="html">
             <source>Kombivarante</source>
-            <target state="new"></target>
+            <target state="final">Variante-combi</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/components/titel/titel.component.html</context>
               <context context-type="linenumber">75</context>
@@ -7306,7 +7306,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="showinsertEnd" datatype="html">
             <source>Insert.schluss anzeigen</source>
-            <target state="new">Insert.schluss anzeigen</target>
+            <target state="final">Mostra termine Insezione</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/components/werbemittel/werbemittel.component.html</context>
               <context context-type="linenumber">231</context>
@@ -7491,7 +7491,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="27ffdaa2c342eb03f65098d895e4b661bd7e737a" datatype="html">
             <source>keiner</source>
-            <target state="new"></target>
+            <target state="final">senza</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/components/werbemittel/werbemittel.component.html</context>
               <context context-type="linenumber">270</context>
@@ -7499,7 +7499,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="62d7998e0429f2487adc0e8e56e4173275cf7a3d" datatype="html">
             <source>Internet</source>
-            <target state="new"></target>
+            <target state="final">Internet</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/components/werbemittel/werbemittel.component.html</context>
               <context context-type="linenumber">280</context>
@@ -7552,7 +7552,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="approachPerUnity" datatype="html">
             <source>Ansatz je Einheit</source>
-            <target state="new">Ansatz je Einheit</target>
+            <target state="final">Valore per unit&#xE0;</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/components/zusatzpreisposition/zusatzpreisposition.component.html</context>
               <context context-type="linenumber">23</context>
@@ -7560,7 +7560,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="sweepingPerEdition" datatype="html">
             <source>Pauschal je Ausg.</source>
-            <target state="new">Pauschal je Ausg.</target>
+            <target state="final">Forfait per pubblicazione</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/components/zusatzpreisposition/zusatzpreisposition.component.html</context>
               <context context-type="linenumber">24</context>
@@ -7568,7 +7568,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="percentage" datatype="html">
             <source>Prozentsatz</source>
-            <target state="new">Prozentsatz</target>
+            <target state="final">Percentuale</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/components/zusatzpreisposition/zusatzpreisposition.component.html</context>
               <context context-type="linenumber">25</context>
@@ -7576,7 +7576,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="sweepingAll" datatype="html">
             <source>Pauschal alle Ausg.</source>
-            <target state="new">Pauschal alle Ausg.</target>
+            <target state="final">Forfait tutte pubblicazioni</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/components/zusatzpreisposition/zusatzpreisposition.component.html</context>
               <context context-type="linenumber">26</context>
@@ -7584,7 +7584,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="sweepingPerObject" datatype="html">
             <source>Pauschal je Objekt</source>
-            <target state="new">Pauschal je Objekt</target>
+            <target state="final">Forfait per Titolo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/components/zusatzpreisposition/zusatzpreisposition.component.html</context>
               <context context-type="linenumber">27</context>
@@ -7592,7 +7592,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="percentageNotRounded" datatype="html">
             <source>Prozentsatz ungerundet</source>
-            <target state="new">Prozentsatz ungerundet</target>
+            <target state="final">% arrotoindata</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/components/zusatzpreisposition/zusatzpreisposition.component.html</context>
               <context context-type="linenumber">28</context>
@@ -7640,7 +7640,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="49eae240ed2227b94f5df4914461ccd8b28d8d6b" datatype="html">
             <source>Vorerfassung</source>
-            <target state="new">Vorerfassung</target>
+            <target state="final">Preregistrazione</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
               <context context-type="linenumber">33</context>
@@ -7652,7 +7652,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="42e093fe42fc30fcf44d0b7cc0dfb744834d1167" datatype="html">
             <source>Auftrag</source>
-            <target state="new">Auftrag</target>
+            <target state="final">Ordine</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
               <context context-type="linenumber">34</context>
@@ -7704,7 +7704,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="csverstellen" datatype="html">
             <source>CSV erstellen</source>
-            <target state="new"></target>
+            <target state="final">Genera CSV</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
               <context context-type="linenumber">58</context>
@@ -7820,7 +7820,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d21319c0f83009af873a79a6cb5a4f456c129713" datatype="html">
             <source>Vermittler-Nr</source>
-            <target state="new"></target>
+            <target state="final">Nr. Intermediario</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
               <context context-type="linenumber">169</context>
@@ -7828,7 +7828,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d5e48b39ba00fc64d21b9199e019b5d1f2646e89" datatype="html">
             <source>Chiffre</source>
-            <target state="new"></target>
+            <target state="final">Cifra</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/refactofferte-show.component.html</context>
               <context context-type="linenumber">176</context>
@@ -7940,7 +7940,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="44919cef220dad04bc7a178de97a03f1a6691c35" datatype="html">
             <source>Agentur/Vermittler</source>
-            <target state="new"></target>
+            <target state="final">Agenzia/Intermediario</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-hoch-1/a4-hoch-1.component.html</context>
               <context context-type="linenumber">50</context>
@@ -8172,7 +8172,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="adviserCommissionAbbrv" datatype="html">
             <source>BK</source>
-            <target state="new">BK</target>
+            <target state="final">CA</target>
             <note priority="1" from="description">Beraterkommission abk&#xFC;rzung</note>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-hoch-1/a4-hoch-1.component.html</context>
@@ -8494,7 +8494,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="af2375622b10a23bcfaaa85615ca4ae8af868ab4" datatype="html">
             <source>Auftragsnummer</source>
-            <target state="new"></target>
+            <target state="final">Nr. ordine</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-hoch-4/a4-hoch-4.component.html</context>
               <context context-type="linenumber">53</context>
@@ -8502,7 +8502,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="cab768c833122f9a7a927fbce6e9aa73694e3ff0" datatype="html">
             <source>Format/Einheit</source>
-            <target state="new"></target>
+            <target state="final">Formato/Unit&#xE0;</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-hoch-5/a4-hoch-5.component.html</context>
               <context context-type="linenumber">91</context>
@@ -8522,7 +8522,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="5033f7b43c5d8ba1faf315805f6b6a15d4249483" datatype="html">
             <source>Anzeigen-/DM-Schluss</source>
-            <target state="new"></target>
+            <target state="final">Termine/inserzione/mat.grafico</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-hoch-8/a4-hoch-8.component.html</context>
               <context context-type="linenumber">144</context>
@@ -8674,7 +8674,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="0361f66b71c9b85c62a1890ccf54b6a1217e40c2" datatype="html">
             <source>Auflage/</source>
-            <target state="new"></target>
+            <target state="final">Tiratura/</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
               <context context-type="linenumber">61</context>
@@ -8710,7 +8710,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="range" datatype="html">
             <source>Reichweite</source>
-            <target state="new">Reichweite</target>
+            <target state="final">Penetrazione</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-1/a4-quer-1.component.html</context>
               <context context-type="linenumber">61</context>
@@ -9290,7 +9290,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="ref" datatype="html">
             <source>Ref</source>
-            <target state="new"></target>
+            <target state="final">Rir.</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
               <context context-type="linenumber">45</context>
@@ -9302,7 +9302,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="cb0f69bdd4dea41d7d45c74b6e07f98de8a2ab26" datatype="html">
             <source>in</source>
-            <target state="new"></target>
+            <target state="final">in</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/refactofferte/refactofferte-show/templates/a4-quer-10/a4-quer-10.component.html</context>
               <context context-type="linenumber">77</context>
@@ -9498,7 +9498,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="capital" datatype="html">
             <source>HOME</source>
-            <target state="new"></target>
+            <target state="final">HOME</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/shared/components/sidenav/sidenav.component.html</context>
               <context context-type="linenumber">34</context>
