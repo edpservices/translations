@@ -6290,7 +6290,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="af6fdfafe4d3fd76a950684aeb6a01d5e552371b" datatype="html">
             <source>Senden</source>
-            <target state="new"></target>
+            <target state="final">Invia</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/mavlcomponents/vorlagentoolbar/vorlagentoolbar.component.html</context>
               <context context-type="linenumber">22</context>
@@ -6302,7 +6302,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d358215822396a912bfd2dbc62c3b7839e9927c9" datatype="html">
             <source>Workflow-Typ</source>
-            <target state="new">Workflow-Typ</target>
+            <target state="final">Tipo Workflow</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/new-and-edit-article/new-and-edit-article.component.html</context>
               <context context-type="linenumber">42</context>
@@ -6314,7 +6314,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="b7f6cd735e8b660a6ec3d3dfb09de14ab32a10c8" datatype="html">
             <source>Titel</source>
-            <target state="new">Titel</target>
+            <target state="final">Titolo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/new-and-edit-article/new-and-edit-article.component.html</context>
               <context context-type="linenumber">75</context>
@@ -6326,7 +6326,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="3cdb41efc98f822f69ddb7a93bf7b5df67e43ce6" datatype="html">
             <source>Artikeltitel</source>
-            <target state="new">Artikeltitel</target>
+            <target state="final">Titolo articolo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/new-and-edit-article/new-and-edit-article.component.html</context>
               <context context-type="linenumber">138</context>
@@ -6334,7 +6334,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="503b951dc9cc0a3ba44b73393cf8fb0fd03ca7b0" datatype="html">
             <source>Untertitel</source>
-            <target state="new">Untertitel</target>
+            <target state="final">Sottotitolo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/new-and-edit-article/new-and-edit-article.component.html</context>
               <context context-type="linenumber">144</context>
@@ -6342,7 +6342,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="b5cc98ebf7ea5c1ee32759755c7bde2b25f4a914" datatype="html">
             <source>Seitenzahl</source>
-            <target state="new">Seitenzahl</target>
+            <target state="final">Nr. Pagina</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/new-and-edit-article/new-and-edit-article.component.html</context>
               <context context-type="linenumber">150</context>
@@ -6350,7 +6350,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="b8232840f5ce5f15b105e2a19ee2671c1275cd0e" datatype="html">
             <source>PermalinkID</source>
-            <target state="new">PermalinkID</target>
+            <target state="final">PermalinkID</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/new-and-edit-article/new-and-edit-article.component.html</context>
               <context context-type="linenumber">154</context>
@@ -6358,7 +6358,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="8cc032a22233d50dd15c226b8595d9b50541e580" datatype="html">
             <source>DOI-Nummer</source>
-            <target state="new">DOI-Nummer</target>
+            <target state="final">DOI-Nr.</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/new-and-edit-article/new-and-edit-article.component.html</context>
               <context context-type="linenumber">160</context>
@@ -6366,7 +6366,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="42711876d76e3b0d9294ed56628294a256a4f27b" datatype="html">
             <source>Artikel l&#xF6;schen</source>
-            <target state="new">Artikel l&#xF6;schen</target>
+            <target state="final">Cancella articolo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/new-and-edit-article/new-and-edit-article.component.html</context>
               <context context-type="linenumber">170</context>
@@ -6374,7 +6374,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="ad4f2f95c49b09a24726dfdd3ea6e7b49befcef5" datatype="html">
             <source>Artikel speichern</source>
-            <target state="new">Artikel speichern</target>
+            <target state="final">Salva articolo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/new-and-edit-article/new-and-edit-article.component.html</context>
               <context context-type="linenumber">171</context>
@@ -6382,7 +6382,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="0bd4ec17e38eee653275d1e2a04e73641eebb1cb" datatype="html">
             <source>Objektvorlage</source>
-            <target state="new">Objektvorlage</target>
+            <target state="final">Oggetto modello </target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/new-and-edit-object/new-and-edit-object.component.html</context>
               <context context-type="linenumber">45</context>
@@ -6390,7 +6390,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="1bed8e1b38e83d2ba4fc5d86e59131f774734c03" datatype="html">
             <source>Neues Objekt erstellen</source>
-            <target state="new">Neues Objekt erstellen</target>
+            <target state="final">Crea nuovo oggetto</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/new-and-edit-object/new-and-edit-object.component.html</context>
               <context context-type="linenumber">60</context>
@@ -6398,7 +6398,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="632d143826ec5058ec18a22ad862af09e4d28afe" datatype="html">
             <source>Produkt speichern</source>
-            <target state="new">Produkt speichern</target>
+            <target state="final">Salva prodotto</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/new-and-edit-object/new-and-edit-object.component.html</context>
               <context context-type="linenumber">91</context>
@@ -6406,7 +6406,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="08cd24b07d24c57679b811dbbf43260f7dcd319e" datatype="html">
             <source>Produkt l&#xF6;schen</source>
-            <target state="new">Produkt l&#xF6;schen</target>
+            <target state="final">Elimina prodotto</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/new-and-edit-object/new-and-edit-object.component.html</context>
               <context context-type="linenumber">93</context>
@@ -6414,7 +6414,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d25c95d387897e3a0167884c0ba0cfd134579428" datatype="html">
             <source>Adressen</source>
-            <target state="new"></target>
+            <target state="final">Indirizzi</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">6</context>
@@ -6422,7 +6422,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="44b7819e1ef6db082bea8b694ad5861f43d18e36" datatype="html">
             <source>Rechnungsadresse</source>
-            <target state="new">Rechnungsadresse</target>
+            <target state="final">Indirizzo di fatturazione</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">18</context>
@@ -6434,7 +6434,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a665756affc169e133b114027b8dd714f2539e2f" datatype="html">
             <source>Bezahlung</source>
-            <target state="new"></target>
+            <target state="final">Pagamento</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">23</context>
@@ -6442,7 +6442,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="8102810ea9b5c76a07ee5bf162f8d61df3f1261f" datatype="html">
             <source>Offener Betrag</source>
-            <target state="new"></target>
+            <target state="final">Importo aperto</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">27</context>
@@ -6450,7 +6450,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="976a01d10cb9af1950b74745ad8d20d86e258f7d" datatype="html">
             <source>N&#xE4;chste Faktura</source>
-            <target state="new">N&#xE4;chste Faktura</target>
+            <target state="final">Prossima fattura</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">32</context>
@@ -6458,7 +6458,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="dc346b71b0a0717bff7a0ccb2e4f992e6c92bd6e" datatype="html">
             <source>Rechnungsart</source>
-            <target state="new"></target>
+            <target state="final">Tipo di fattura</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">37</context>
@@ -6466,7 +6466,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d2352245f4b899734cc3730b25e678af8d6a0d48" datatype="html">
             <source>(&#xE4;ndern)</source>
-            <target state="new"></target>
+            <target state="final">(modifica)</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">40</context>
@@ -6474,7 +6474,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="bd7cb1c160631b044a9bf90042a731aa6bedd2c9" datatype="html">
             <source>Ablaufdatum</source>
-            <target state="new"></target>
+            <target state="final">Data di scadenza</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">51</context>
@@ -6482,7 +6482,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="4adce2a37183693f27a7679a703c7e0e62a3cb72" datatype="html">
             <source>Kreditkarte</source>
-            <target state="new"></target>
+            <target state="final">Carta di credito</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">56</context>
@@ -6490,7 +6490,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="962545524045621c7eb43c2857af95053da4f73d" datatype="html">
             <source>AWDE-Link mit Adressnr</source>
-            <target state="new"></target>
+            <target state="final">AWDE - Link con Nr. Contatto</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">62</context>
@@ -6498,7 +6498,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="38589f673f4c64bda352dfa63c639b8f1eae17c2" datatype="html">
             <source>AWDE-Link mit Vorgnr</source>
-            <target state="new"></target>
+            <target state="final">AWDE - Link con Nr. Abbonamento</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">66</context>
@@ -6506,7 +6506,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="42522d5af67c7c340f4bc968e43df9207b2789e6" datatype="html">
             <source>Zustellung</source>
-            <target state="new"></target>
+            <target state="final">Consegna</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">72</context>
@@ -6514,7 +6514,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="cb99fea352b527c4007f66dbbb8e8cfa99134ea3" datatype="html">
             <source>Umleitung bis</source>
-            <target state="new"></target>
+            <target state="final">Deviato fino al</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">82</context>
@@ -6522,7 +6522,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="20cbca527158edbfa3960c4581b719ff6f9c5a3d" datatype="html">
             <source>Unterbruch bis</source>
-            <target state="new"></target>
+            <target state="final">Sospeso fino al</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">88</context>
@@ -6530,7 +6530,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="fea06d7bfd14da5a9a5da260fec7373104f0bcd5" datatype="html">
             <source>Weder Umleitung noch Unterbruch aktiv</source>
-            <target state="new"></target>
+            <target state="final">Deviazione/sospensione ancora attiva</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">94</context>
@@ -6538,7 +6538,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="1d99232cbe8f9b467ec126f12d449ea0b96a0ffd" datatype="html">
             <source>(Details/Neu)</source>
-            <target state="new"></target>
+            <target state="final">(dettagli/nuovo)</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">95</context>
@@ -6550,7 +6550,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="387c7848883e62504a3cdb0cfc0407bb7e118095" datatype="html">
             <source>Terminauswertung</source>
-            <target state="new"></target>
+            <target state="final">Valutazione appuntamento</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">101</context>
@@ -6558,7 +6558,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="6f9194f273df273f56a5b41d5974a1c4f30b0c0f" datatype="html">
             <source>Kein Termin erfasst</source>
-            <target state="new"></target>
+            <target state="final">Nessun appuntamento registrato</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">107</context>
@@ -6566,7 +6566,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d058679e9bb524f3e0e0856a6b05ca41b6b6334d" datatype="html">
             <source> Unregelm&#xE4;ssige Zustellung </source>
-            <target state="new"></target>
+            <target state="final">Consegna irregolare</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">112</context>
@@ -6574,7 +6574,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="ee7fe2cdd11f4ccb1effb3498b25985d38a8f1fe" datatype="html">
             <source>Periode</source>
-            <target state="new"></target>
+            <target state="final">Periodo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">117</context>
@@ -6582,7 +6582,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="227fbcec6f9d6df3df6ba16f37ff7a0fdabcdfaf" datatype="html">
             <source>Exemplare</source>
-            <target state="new"></target>
+            <target state="final">Esemplari</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickview/quickview.component.html</context>
               <context context-type="linenumber">122</context>
@@ -6598,7 +6598,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="9195dd0550359cac01e861dbdaa99776cd2e0701" datatype="html">
             <source>Adresse kopieren</source>
-            <target state="new"></target>
+            <target state="final">Copiare Indirizzo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickviewadresse/quickviewadresse.component.html</context>
               <context context-type="linenumber">19</context>
@@ -6606,7 +6606,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="7452c91f53b85eb4c5715d218eb1893d86a3a04d" datatype="html">
             <source>Anrufen</source>
-            <target state="new"></target>
+            <target state="final">Chiamare</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickviewadresse/quickviewadresse.component.html</context>
               <context context-type="linenumber">25</context>
@@ -6614,7 +6614,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="653726a5d81551077e4adfd77452757e7af003bc" datatype="html">
             <source>Ges. dir.</source>
-            <target state="new"></target>
+            <target state="final">Prof. dir.</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickviewadresse/quickviewadresse.component.html</context>
               <context context-type="linenumber">29</context>
@@ -6622,7 +6622,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="6d3b88a3ae6ff3d987f86395605397ec736dee9c" datatype="html">
             <source>E-Mail</source>
-            <target state="new">E-Mail</target>
+            <target state="final">Email</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/quickviewadresse/quickviewadresse.component.html</context>
               <context context-type="linenumber">39</context>
@@ -6630,7 +6630,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d3d9d9474cc98d5f35c7fd27ea583231c9831deb" datatype="html">
             <source>Workflow erstellen/bearbeiten</source>
-            <target state="new">Workflow erstellen/bearbeiten</target>
+            <target state="final">Workflow creare/modificare</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/workflow-editor/workflow-editor.component.html</context>
               <context context-type="linenumber">24</context>
@@ -6638,7 +6638,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="074c729dc0f118f6491aef32e616ea5996c81adf" datatype="html">
             <source>Workflow speichern</source>
-            <target state="new">Workflow speichern</target>
+            <target state="final">Salvare workflow</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/workflow-editor/workflow-editor.component.html</context>
               <context context-type="linenumber">34</context>
@@ -6646,7 +6646,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="91b4ccc40db10345db9c327e2b6f632c18d0fbb9" datatype="html">
             <source>Workflow verwerfen</source>
-            <target state="new">Workflow verwerfen</target>
+            <target state="final">Verificare workflow</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/workflow-editor/workflow-editor.component.html</context>
               <context context-type="linenumber">36</context>
@@ -6654,7 +6654,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="2ed73d0181599cb208bd75c6195c5ce2d7ca18c2" datatype="html">
             <source>Workflow l&#xF6;schen</source>
-            <target state="new">Workflow l&#xF6;schen</target>
+            <target state="final">Eliminare workflow</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/workflow-editor/workflow-editor.component.html</context>
               <context context-type="linenumber">38</context>
@@ -6662,7 +6662,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="274ec296139e565d0ade765f3f6a540e1d53dab9" datatype="html">
             <source>Todo +</source>
-            <target state="new">Todo +</target>
+            <target state="final">To-do +</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/workflow-editor/workflow-editor.component.html</context>
               <context context-type="linenumber">94</context>
@@ -6670,7 +6670,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="cc75dd9ddd638c00b84e2df01c3e61a33edfa500" datatype="html">
             <source>Task +</source>
-            <target state="new">Task +</target>
+            <target state="final">Task +</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/workflow-editor/workflow-editor.component.html</context>
               <context context-type="linenumber">99</context>
@@ -6678,7 +6678,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="7cbc7ea1500bb418f475a032ca8761df943aaace" datatype="html">
             <source>Schritt +</source>
-            <target state="new">Schritt +</target>
+            <target state="final">Passo +</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/workflow-editor/workflow-editor.component.html</context>
               <context context-type="linenumber">106</context>
@@ -6686,7 +6686,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d6c81c710117a6f27dc4e9953c8d403b6b35bcb3" datatype="html">
             <source>Leer +</source>
-            <target state="new">Leer +</target>
+            <target state="final">Vuoto +</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/workflow-editor/workflow-editor.component.html</context>
               <context context-type="linenumber">107</context>
@@ -6694,7 +6694,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="5510ccfd910a2430680bd632a741d5a82c7da819" datatype="html">
             <source>Vorlage Speichern</source>
-            <target state="new"></target>
+            <target state="final">DSalvare modello</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/abovorlagedialog/abovorlagedialog.component.html</context>
               <context context-type="linenumber">2</context>
@@ -6702,7 +6702,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="5395ef61a069bb8d457fe7c50f15e8e203824e58" datatype="html">
             <source>Vorlagen-Titel</source>
-            <target state="new"></target>
+            <target state="final">Titoli modelli</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/abovorlagedialog/abovorlagedialog.component.html</context>
               <context context-type="linenumber">10</context>
@@ -6718,7 +6718,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d928a8144617ae914070f6aedf983ab7e9d9d2f6" datatype="html">
             <source> Bitte w&#xE4;hlen Sie eine Adresse oder [ALLE] f&#xFC;r die &#xDC;bernahme aller Adressen. Sie k&#xF6;nnen &#xFC;ber die erweiterte Suche noch genauer suchen.</source>
-            <target state="new"></target>
+            <target state="final"> Scegliere un indirizzo o  [TUTTI] per selezionare gli indirizzi. Tramite la ricerca avanzata potete selezionare pi&#xF9; precisamente.</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/adrauswahldialog/adrauswahldialog.component.html</context>
               <context context-type="linenumber">5</context>
@@ -6726,7 +6726,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="48310b99ffd82cb7635d753e45cb3bdfe16998f9" datatype="html">
             <source>ALLE</source>
-            <target state="new"></target>
+            <target state="final">TUTTI</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/adrauswahldialog/adrauswahldialog.component.html</context>
               <context context-type="linenumber">36</context>
@@ -6734,7 +6734,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="22815dd98f1c1571084978296e823d4782576789" datatype="html">
             <source>Hintergrund-Farbe: </source>
-            <target state="new">Hintergrund-Farbe: </target>
+            <target state="final">Colore sfondo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/colorpickerdialog/colorpickerdialog.component.html</context>
               <context context-type="linenumber">8</context>
@@ -6742,7 +6742,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="6f70a25b25e1efe80a25121f883545f42b88f6b7" datatype="html">
             <source>Hex Code</source>
-            <target state="new">Hex Code</target>
+            <target state="final">Hex code</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/colorpickerdialog/colorpickerdialog.component.html</context>
               <context context-type="linenumber">26</context>
@@ -6750,7 +6750,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="8885676736c3daf09bbabb3cc262e0ce3ffef5c5" datatype="html">
             <source>Annehmen</source>
-            <target state="new">Annehmen</target>
+            <target state="final">Accettare</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/colorpickerdialog/colorpickerdialog.component.html</context>
               <context context-type="linenumber">37</context>
@@ -6758,7 +6758,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a4e5822a729f2c214f7cb63f6dd9a92fcc81d057" datatype="html">
             <source>Sicherheits-Warnung</source>
-            <target state="new">Sicherheits-Warnung</target>
+            <target state="final">Avviso di sicurezza</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/deletearticledialog/deletearticledialog.component.html</context>
               <context context-type="linenumber">2</context>
@@ -6778,7 +6778,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="93163da67c762b0e417b9406d408b4ca5b39d4e6" datatype="html">
             <source>Sind sie sicher, dass sie den Artikel l&#xF6;schen wollen</source>
-            <target state="new">Sind sie sicher, dass sie den Artikel l&#xF6;schen wollen</target>
+            <target state="final">Siete sicuri di voler eliminare questo articolo?</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/deletearticledialog/deletearticledialog.component.html</context>
               <context context-type="linenumber">5</context>
@@ -6787,7 +6787,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <trans-unit id="325f09958f9234df8f70fb86bf8d283dc77f82c9" datatype="html">
             <source> Mail-Vorlage wirklich l&#xF6;schen?
 </source>
-            <target state="new"></target>
+            <target state="final">Volete eliminare definitivamente il modello email?</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/deletemavldialog/deletemavldialog.component.html</context>
               <context context-type="linenumber">9</context>
@@ -6795,7 +6795,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="06f72953f6ef7d8ff9af11c8f42364a71ec87e05" datatype="html">
             <source>Sind sie sicher, dass sie das Objekt l&#xF6;schen wollen?</source>
-            <target state="new">Sind sie sicher, dass sie das Objekt l&#xF6;schen wollen?</target>
+            <target state="final">Siete sicuri di voler eliminare definitivamente l&#x27;oggetto?</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/deleteobjectdialog/deleteobjectdialog.component.html</context>
               <context context-type="linenumber">5</context>
@@ -6803,7 +6803,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d3e881c19746fa315e9898d119332320395b8fc0" datatype="html">
             <source>Sind sie sicher, dass sie den Workflow l&#xF6;schen wollen</source>
-            <target state="new">Sind sie sicher, dass sie den Workflow l&#xF6;schen wollen</target>
+            <target state="final">Siete sicuri di voler eliminare definitivamente il workflow?</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/deleteworkflowdialog/deleteworkflowdialog.component.html</context>
               <context context-type="linenumber">5</context>
@@ -6819,7 +6819,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="21cb5868fa52dfdf342d8f17aa74d6fa2770bdce" datatype="html">
             <source>Achtung!</source>
-            <target state="new"></target>
+            <target state="final">Attenzione!</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/dialogs/liefunregdialog/liefunregdialog.component.html</context>
               <context context-type="linenumber">2</context>
