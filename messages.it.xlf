@@ -4649,7 +4649,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="31ae62e10121bbfc63d7088318a9d412880b6a4c" datatype="html">
             <source>Termin-Art</source>
-            <target state="new">Termin-Art</target>
+            <target state="final">Tpo appuntamento</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
               <context context-type="linenumber">73</context>
@@ -4657,7 +4657,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="750c096aff87f59645ddccaa58344f9bba845ece" datatype="html">
             <source>Merkmal</source>
-            <target state="new">Merkmal</target>
+            <target state="final">Attributo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
               <context context-type="linenumber">84</context>
@@ -4665,7 +4665,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="74c308556fc299d0a385e98125a7048fee544d94" datatype="html">
             <source>Nachbearb.</source>
-            <target state="new">Nachbearb.</target>
+            <target state="final">Elaborazione a posteriori</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
               <context context-type="linenumber">91</context>
@@ -4673,7 +4673,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="178d3c505ecfaed38f03b4cd26df3432fca2fb90" datatype="html">
             <source>Objekt</source>
-            <target state="new">Objekt</target>
+            <target state="final">Titolo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
               <context context-type="linenumber">102</context>
@@ -4705,7 +4705,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="020ecb7454a205760ce6e69026213293fc63e45e" datatype="html">
             <source>BezNr</source>
-            <target state="new"></target>
+            <target state="final">Nr. Contatto</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
               <context context-type="linenumber">122</context>
@@ -4713,7 +4713,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="bb9e59e0e87f9b2fae9114f05f445eb0b5828ff0" datatype="html">
             <source>Nachlief.</source>
-            <target state="new">Nachlief.</target>
+            <target state="final">Consegna a posteriori</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
               <context context-type="linenumber">162</context>
@@ -4721,7 +4721,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a01f9c1b44e2b023eb2b83a56184cfb2d8c03dbc" datatype="html">
             <source>Artikel</source>
-            <target state="new">Artikel</target>
+            <target state="final">Articolo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
               <context context-type="linenumber">169</context>
@@ -4729,7 +4729,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="5a11aa12302a14feb893a5a4b374e62b7d481dc9" datatype="html">
             <source>Freier Text:</source>
-            <target state="new">Freier Text:</target>
+            <target state="final">Testo libero</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
               <context context-type="linenumber">184</context>
@@ -4737,7 +4737,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="f34e24657c8dcb3279405bd6fa9ec0e1aae269ca" datatype="html">
             <source>Mitteilung 1</source>
-            <target state="new"></target>
+            <target state="final">Comunicazione1</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
               <context context-type="linenumber">192</context>
@@ -4745,7 +4745,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="97b353bb617fca9d8ed97290b7549bced0a63dc8" datatype="html">
             <source>Mitteilung 2</source>
-            <target state="new"></target>
+            <target state="final">Comunicazione2</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
               <context context-type="linenumber">207</context>
@@ -4753,7 +4753,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a813fd43c9a1b211fe541045d263d2c500c80f0f" datatype="html">
             <source>L&#xF6;schen</source>
-            <target state="new"></target>
+            <target state="final">Elimina</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
               <context context-type="linenumber">225</context>
@@ -4785,7 +4785,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="e68a3afbe5e3e655c539aff1ca51918ae9b6134f" datatype="html">
             <source>Abbrechen (F4)</source>
-            <target state="new">Abbrechen (F4)</target>
+            <target state="final">Annulla (F4)</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
               <context context-type="linenumber">228</context>
@@ -4801,7 +4801,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="c518034af4a7845f8b538f8b112f906a81aa0c30" datatype="html">
             <source> als interne Mutation </source>
-            <target state="new"></target>
+            <target state="final">come modifica interna</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/abotermine/abotermine.component.html</context>
               <context context-type="linenumber">242</context>
@@ -4809,7 +4809,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="36e6593a16430190a20a438246d56602ba680401" datatype="html">
             <source>Reset (F2)</source>
-            <target state="new">Reset (F2)</target>
+            <target state="final">Reset (F2)</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
               <context context-type="linenumber">6</context>
@@ -4821,7 +4821,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="1913c5571cc65d349c564c8db097307e346606b3" datatype="html">
             <source>Umleitungspreis (SHIFT + F2)</source>
-            <target state="new"></target>
+            <target state="final">Prezzo deviazione (SHIFT + F2)</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
               <context context-type="linenumber">9</context>
@@ -4829,7 +4829,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="aad6fab260ddd7dfa7567f49cf93272afa96cca1" datatype="html">
             <source>G&#xFC;ltigAb</source>
-            <target state="new">G&#xFC;ltigAb</target>
+            <target state="final">Valido dal</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
               <context context-type="linenumber">22</context>
@@ -4841,7 +4841,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="233db326a8994c841b91014c786f074fd3d3d6ca" datatype="html">
             <source>G&#xFC;ltigBis</source>
-            <target state="new">G&#xFC;ltigBis</target>
+            <target state="final">Valido fino al</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
               <context context-type="linenumber">27</context>
@@ -4853,7 +4853,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="dde9144c16e9eec954d15720f2bf5e94e2582806" datatype="html">
             <source>Grund</source>
-            <target state="new">Grund</target>
+            <target state="final">Motivo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
               <context context-type="linenumber">32</context>
@@ -4865,7 +4865,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="71134e1f8e386768460814d4d54b826ea9e1790a" datatype="html">
             <source>Adresse</source>
-            <target state="new"></target>
+            <target state="final">Indirizzo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
               <context context-type="linenumber">81</context>
@@ -4873,7 +4873,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d5015e904adecdf51f40107a7c90b5acbbca3c49" datatype="html">
             <source>Versandart</source>
-            <target state="new">Versandart</target>
+            <target state="final">Tipo di invio</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
               <context context-type="linenumber">101</context>
@@ -4885,7 +4885,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="80642f1a6b20c66c02c2c3f5f3652cd47cabe8b0" datatype="html">
             <source>Fakt. Code</source>
-            <target state="new"></target>
+            <target state="final">Codice fattura</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
               <context context-type="linenumber">106</context>
@@ -4893,7 +4893,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="63f82a16a2315235affc827cfddee3e7dd8b1d15" datatype="html">
             <source>Abw.&#xA0;Menge</source>
-            <target state="new">Abw.&#xA0;Menge</target>
+            <target state="final">Qunatit&#xE0; divergente</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
               <context context-type="linenumber">144</context>
@@ -4901,7 +4901,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="e330f7c9f521422ef158fc591d93886e3c6b0cc0" datatype="html">
             <source>Ausgabe</source>
-            <target state="new">Ausgabe</target>
+            <target state="final">Pubblicazione</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
               <context context-type="linenumber">151</context>
@@ -4917,7 +4917,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a2b09d37e0d2cdeef81664067938f3c5ea4349d3" datatype="html">
             <source>Leitweg</source>
-            <target state="new">Leitweg</target>
+            <target state="final">Routage</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
               <context context-type="linenumber">166</context>
@@ -4929,7 +4929,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="786614e30b029547f38a1fdc9dd254ce5c15601b" datatype="html">
             <source>PalID</source>
-            <target state="new">PalID</target>
+            <target state="final">PalID</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
               <context context-type="linenumber">181</context>
@@ -4941,7 +4941,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a39f2823e5915d29662a962a441e7e2791f71273" datatype="html">
             <source> als interne Mutation </source>
-            <target state="new"></target>
+            <target state="final">come modifica interna</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboumleitungen/aboumleitungen.component.html</context>
               <context context-type="linenumber">215</context>
@@ -4949,7 +4949,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="54b0a4e4c166be4a0748c701ee64a7adffa01009" datatype="html">
             <source>Abopreis (SHIFT + F2)</source>
-            <target state="new">Abopreis (SHIFT + F2)</target>
+            <target state="final">Prezzo abbonamento (SHIFT + F2)</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">6</context>
@@ -4957,7 +4957,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="425a2550f582bb105a25f86de83d25b152bb5eb0" datatype="html">
             <source>Memos</source>
-            <target state="new"></target>
+            <target state="final">Note</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">10</context>
@@ -4969,7 +4969,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="207838c3b893348a0e7e3d414e598caa86e06ada" datatype="html">
             <source> als interne Mutation </source>
-            <target state="new"></target>
+            <target state="final">come modifica interna</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">34</context>
@@ -4977,7 +4977,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="29455d590e6fc88c58a1ac7160086feedf336998" datatype="html">
             <source> als Vorlage </source>
-            <target state="new"></target>
+            <target state="final">come modello</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">38</context>
@@ -4985,7 +4985,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="3fbb90425172aef5b4f9f657578b493b140b7272" datatype="html">
             <source>Allgemeines</source>
-            <target state="new">Allgemeines</target>
+            <target state="final">Generale</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">53</context>
@@ -4993,7 +4993,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="bfe07b9fe47c863628159a65ba3740cba446a60e" datatype="html">
             <source>Abonnent</source>
-            <target state="new">Abonnent</target>
+            <target state="final">Abbonato</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">63</context>
@@ -5009,7 +5009,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="7db923093063224b8833d6429b9a438076326bd6" datatype="html">
             <source>Aboart</source>
-            <target state="new">Aboart</target>
+            <target state="final">Tipo abbonamento</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">66</context>
@@ -5017,7 +5017,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d9ef71c95d340abf1feac0fbf87d759be7eac3ce" datatype="html">
             <source>Zustellungen</source>
-            <target state="new">Zustellungen</target>
+            <target state="final">Consegna</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">70</context>
@@ -5025,7 +5025,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="7f84d943cbb35d2c6ca964218fdf515977380503" datatype="html">
             <source>Von</source>
-            <target state="new">Von</target>
+            <target state="final">Da</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">72</context>
@@ -5037,7 +5037,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="dee723f876f4c55bcacf3b0dac28179863d3099f" datatype="html">
             <source>Bis</source>
-            <target state="new">Bis</target>
+            <target state="final">Fino a</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">91</context>
@@ -5049,7 +5049,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a005a7f15191da30442defa4ce7539992f222f3e" datatype="html">
             <source>Faktura</source>
-            <target state="new">Faktura</target>
+            <target state="final">Fattura</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">113</context>
@@ -5057,7 +5057,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="cbc6bd0b2afae38c0a2c6c37434acff92e107f8b" datatype="html">
             <source>Ab</source>
-            <target state="new">Ab</target>
+            <target state="final">Dal</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">115</context>
@@ -5069,7 +5069,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="492b965bc5066369f3ff3feacb25624000c88e15" datatype="html">
             <source>Fix</source>
-            <target state="new">Fix</target>
+            <target state="final">Fisso</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">134</context>
@@ -5077,7 +5077,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="4548c1dc7867acc6c35900cd5f784b4ec62c20a1" datatype="html">
             <source>G&#xFC;ltig</source>
-            <target state="new"></target>
+            <target state="final">Validoi</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">155</context>
@@ -5085,7 +5085,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="bf36288237b7982011d8818518fb02c62d007cd7" datatype="html">
             <source>Teilausgabe</source>
-            <target state="new">Teilausgabe</target>
+            <target state="final">Edizione parziale</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">202</context>
@@ -5093,7 +5093,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="3140a0b63752033900361f3d6756e9e058c0d856" datatype="html">
             <source>Nummern</source>
-            <target state="new">Nummern</target>
+            <target state="final">Numero</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">217</context>
@@ -5101,7 +5101,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="097ff65626500b43e2873bed7cd5b24df7dbb530" datatype="html">
             <source>Sperr-Datum</source>
-            <target state="new">Sperr-Datum</target>
+            <target state="final">Data di blocco</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">239</context>
@@ -5113,7 +5113,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a4c942dc5cdb150f724f3d0fa7157cbe9aa4851c" datatype="html">
             <source>Ursprungsjahr</source>
-            <target state="new">Ursprungsjahr</target>
+            <target state="final">Anno precedente</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">273</context>
@@ -5121,7 +5121,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d5a9dff080595dee2683d99cd81ad2a800c0f490" datatype="html">
             <source>Erneuerung</source>
-            <target state="new">Erneuerung</target>
+            <target state="final">Rinnovo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">281</context>
@@ -5129,7 +5129,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="c4cf84087550fb7892358f28c278f3a9faf6afde" datatype="html">
             <source>SperrKz</source>
-            <target state="new">SperrKz</target>
+            <target state="final">BloccoKz</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">285</context>
@@ -5137,7 +5137,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="dafe5b165b08ae74d0c54aed35493d4ec89a1dbb" datatype="html">
             <source>Lieferdaten</source>
-            <target state="new">Lieferdaten</target>
+            <target state="final">Data di consegna</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">300</context>
@@ -5145,7 +5145,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="306938f5701cc959a006a5dcdff91729c7634d7e" datatype="html">
             <source>Wochentage</source>
-            <target state="new">Wochentage</target>
+            <target state="final">Giorno della settimana</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">308</context>
@@ -5153,7 +5153,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="9a34ce2315afe891bd95402f9282f5e3e505ba51" datatype="html">
             <source>Lieferadresse</source>
-            <target state="new">Lieferadresse</target>
+            <target state="final">Indirizzo di consegna</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">309</context>
@@ -5169,7 +5169,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="6698b506c1c77fea2ae0b9cf6f7d3f9aa89e15f2" datatype="html">
             <source>Plakate</source>
-            <target state="new">Plakate</target>
+            <target state="final">Affissione</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">313</context>
@@ -5177,7 +5177,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="f2b3b6c40cc3a2736ffc60cc0dca6a5fc7a35e54" datatype="html">
             <source>Immer</source>
-            <target state="new">Immer</target>
+            <target state="final">Sempre</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">323</context>
@@ -5185,7 +5185,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="05b2923d3188ee7c191c2b665389badc1ae85c26" datatype="html">
             <source>Unregelm&#xE4;ssig</source>
-            <target state="new">Unregelm&#xE4;ssig</target>
+            <target state="final">Irregolare</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">358</context>
@@ -5193,7 +5193,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a1076b8a5b9ee263e8f0ebaa11db1a584b904fcb" datatype="html">
             <source>Zustellung Manuell</source>
-            <target state="new">Zustellung Manuell</target>
+            <target state="final">Consegna manuale</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">367</context>
@@ -5201,7 +5201,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="1557fac4b23545d9ced5a2abaa8e73420f8d01f5" datatype="html">
             <source>Letzte Spedi</source>
-            <target state="new">Letzte Spedi</target>
+            <target state="final">Ultima spedizione</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">375</context>
@@ -5209,7 +5209,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="e00beb85545d248c1f71afeea90540baf4a5feb1" datatype="html">
             <source>Rechnungsdaten</source>
-            <target state="new">Rechnungsdaten</target>
+            <target state="final">dati di fatturazione</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">406</context>
@@ -5217,7 +5217,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="f637aa8bc58b4b4afde1e05fc727cce93d3cb115" datatype="html">
             <source>Rechnungsempf</source>
-            <target state="new">Rechnungsempf</target>
+            <target state="final">Intestatario fattura</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">415</context>
@@ -5225,7 +5225,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="c9dd593d5c3d96ac815179e5f300282fbf4e1e6f" datatype="html">
             <source>Abotarif</source>
-            <target state="new">Abotarif</target>
+            <target state="final">Tariffe abboanmenti</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">418</context>
@@ -5233,7 +5233,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="89e42179591092531b52d81b2ebafac1ca7bf190" datatype="html">
             <source>GeschenkAbo</source>
-            <target state="new">GeschenkAbo</target>
+            <target state="final">Abbonamento regalo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">425</context>
@@ -5241,7 +5241,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="21ce2b1bba5ad0c7eea2cb07927aa08720f9e3d8" datatype="html">
             <source>Kundengruppe</source>
-            <target state="new"></target>
+            <target state="final">Gruppo clienti</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">432</context>
@@ -5249,7 +5249,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="89c25e7bca75a99d0f30131e0f12689f1cbc8cc4" datatype="html">
             <source>Zahlungsweg</source>
-            <target state="new">Zahlungsweg</target>
+            <target state="final">Tipo di pagamento</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">438</context>
@@ -5261,7 +5261,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d0ed15535520aa18e6cda2699402d710b2fe2f24" datatype="html">
             <source>W&#xE4;hrung</source>
-            <target state="new">W&#xE4;hrung</target>
+            <target state="final">Valuta</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">441</context>
@@ -5277,7 +5277,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="3d005c8a9f29aa993304f4c86b89fe806930422b" datatype="html">
             <source>Aboklassierungen &#x26; Kundenuntergruppe</source>
-            <target state="new">Aboklassierungen &#x26; Kundenuntergruppe</target>
+            <target state="final">Classificazione abbonamenti &#x26; sottogruppi clienti</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">451</context>
@@ -5285,7 +5285,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="e744f867eaf1ea0904e9a519d514c74719044847" datatype="html">
             <source>Klassierung 1</source>
-            <target state="new"></target>
+            <target state="final">Classificazione 1</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">460</context>
@@ -5293,7 +5293,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a6e8e72e4885225a355cf8d1ef058739a218890c" datatype="html">
             <source>Untergruppe</source>
-            <target state="new">Untergruppe</target>
+            <target state="final">Sottogruppo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">463</context>
@@ -5301,7 +5301,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a6e48b2ca4354e0a21db8611c75dc8cd89483c4f" datatype="html">
             <source>Klassierung 2</source>
-            <target state="new"></target>
+            <target state="final">Classificazione 2</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">469</context>
@@ -5309,7 +5309,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="55f25788fa09c0f21a28a3d56ae6b6b65c160fa1" datatype="html">
             <source>Klassierung 3</source>
-            <target state="new"></target>
+            <target state="final">Classificazione 3</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">475</context>
@@ -5317,7 +5317,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="4a04e490fb776e6d91547fa16dd2acfdd65ed839" datatype="html">
             <source>Abomerkmale</source>
-            <target state="new">Abomerkmale</target>
+            <target state="final">Attributi abbonamenti</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">485</context>
@@ -5341,7 +5341,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="e865691736f10e0aef1fa3f58653b4e69e981396" datatype="html">
             <source>Zus&#xE4;tzliche Angaben</source>
-            <target state="new">Zus&#xE4;tzliche Angaben</target>
+            <target state="final">Dati supplementari</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">512</context>
@@ -5349,7 +5349,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="ec1fa004b870204f1736e7dfb5fdf67d39b97f14" datatype="html">
             <source>Vertreter 1</source>
-            <target state="new"></target>
+            <target state="final">Intermediario 1</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">521</context>
@@ -5357,7 +5357,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="fd2c4cbd71af085629575b03cbeb65d126f8f1e5" datatype="html">
             <source>Geschenk</source>
-            <target state="new">Geschenk</target>
+            <target state="final">Regalo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">525</context>
@@ -5365,7 +5365,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="9a64f1b9a4736e04936e20cf8a86fa5dcab41f07" datatype="html">
             <source>Bestellzeichen</source>
-            <target state="new">Bestellzeichen</target>
+            <target state="final">Visto ordine</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">539</context>
@@ -5373,7 +5373,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="b63e1c6f1f88d315d10da886960989c0f04da0d6" datatype="html">
             <source>Text vor</source>
-            <target state="new">Text vor</target>
+            <target state="final">Testo prima</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">547</context>
@@ -5381,7 +5381,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="4608db648d22cb0d18618839cfd02654528f4543" datatype="html">
             <source>Vertreter 2</source>
-            <target state="new"></target>
+            <target state="final">Intermediario 2</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">557</context>
@@ -5389,7 +5389,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="0f94f4538309769d13648cee0203b5dbe5c38f92" datatype="html">
             <source>Empf&#xE4;nger</source>
-            <target state="new">Empf&#xE4;nger</target>
+            <target state="final">Intestatario</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">561</context>
@@ -5397,7 +5397,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="714f6796e34bcfedaad4950a2782ce87968234e1" datatype="html">
             <source>WEMFCode</source>
-            <target state="new">WEMFCode</target>
+            <target state="final">Corici REMP</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">568</context>
@@ -5405,7 +5405,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a49ecca0057406f3de3110780fcd3381d2778867" datatype="html">
             <source>Text nach</source>
-            <target state="new">Text nach</target>
+            <target state="final">Testo dopo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">572</context>
@@ -5413,7 +5413,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="575037ccc9996702247c1c5027323016d9957ba2" datatype="html">
             <source>Ex-AboNr</source>
-            <target state="new">Ex-AboNr</target>
+            <target state="final">Ex-AboNr</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">580</context>
@@ -5421,7 +5421,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="2bcf02faaab86b49282d49ce6bd2a87ea62d7d34" datatype="html">
             <source>Vertreter 3</source>
-            <target state="new"></target>
+            <target state="final">Intermediario 3</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">591</context>
@@ -5429,7 +5429,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="8585450b08e81e4b435863675b8224bab8ee478a" datatype="html">
             <source>Bestellart</source>
-            <target state="new">Bestellart</target>
+            <target state="final">Tipo ordine</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">594</context>
@@ -5437,7 +5437,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="401520f43a0dcb885ba39c947758210f7d5c1973" datatype="html">
             <source>Statistik-Art</source>
-            <target state="new">Statistik-Art</target>
+            <target state="final">Gruppo statistiche</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">597</context>
@@ -5445,7 +5445,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="35337a21a01fb7922827dbcc89a05c0002cd8aff" datatype="html">
             <source>Alte-Nr</source>
-            <target state="new">Alte-Nr</target>
+            <target state="final">Vecchio Nr.</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">601</context>
@@ -5453,7 +5453,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="af6276f6932266a8f56a2986bf3c9adaf506ca0e" datatype="html">
             <source>Kiosk-Abrechnung</source>
-            <target state="new">Kiosk-Abrechnung</target>
+            <target state="final">Fatturazione Chiosco</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">615</context>
@@ -5461,7 +5461,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="ce2714ba4f2493ea2a4d6ae7c84c1c09da2f9a0e" datatype="html">
             <source>Kiosk-Gruppe</source>
-            <target state="new">Kiosk-Gruppe</target>
+            <target state="final">Gruppo Chiosco</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">624</context>
@@ -5469,7 +5469,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="872488b90479af3f4d232dfc04f83f9bd059625b" datatype="html">
             <source>Kiosk-Nr</source>
-            <target state="new">Kiosk-Nr</target>
+            <target state="final">Nr. Chiosco</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">631</context>
@@ -5477,7 +5477,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="141ec7ce62876234cbd6378d0bf1f7eb5d6bff2d" datatype="html">
             <source>Festlieferung</source>
-            <target state="new">Festlieferung</target>
+            <target state="final">Consegna festivo/fissa</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">642</context>
@@ -5485,7 +5485,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="efcda66df926936efe953b5ae44fe4322a7976a3" datatype="html">
             <source>Erweiterte Zahlungsbedingungen</source>
-            <target state="new">Erweiterte Zahlungsbedingungen</target>
+            <target state="final">Condizioni di pagamento avanzate</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">653</context>
@@ -5493,7 +5493,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="de00ea79ff277232bdd7722772824289526ba84a" datatype="html">
             <source>Zahlbed</source>
-            <target state="new">Zahlbed</target>
+            <target state="final">Cond pagamento</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">662</context>
@@ -5501,7 +5501,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="09372c93bb361968dc85f8453fcf9696e8127170" datatype="html">
             <source>Einzelpreis</source>
-            <target state="new">Einzelpreis</target>
+            <target state="final">Prezzo unitario</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">666</context>
@@ -5509,7 +5509,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="8d3678fc4de8eb3e098a10e09868515ddab4aa15" datatype="html">
             <source>MwSt-Variante</source>
-            <target state="new">MwSt-Variante</target>
+            <target state="final">Varianti iva</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">673</context>
@@ -5517,7 +5517,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="5cdc766ca2e5c389def784436b29696390757356" datatype="html">
             <source>Mahnsperre</source>
-            <target state="new">Mahnsperre</target>
+            <target state="final">Blocco richiamo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">677</context>
@@ -5525,7 +5525,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="b8e4d196bf2424c0872383f599a788fd54e8b39a" datatype="html">
             <source>Rabatt-Betrag</source>
-            <target state="new">Rabatt-Betrag</target>
+            <target state="final">Valore ribasso</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">686</context>
@@ -5533,7 +5533,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a543d3e8d9bee3c544fdd391e8a6179a7d24f77b" datatype="html">
             <source>Rabatt 1</source>
-            <target state="new"></target>
+            <target state="final">Ribasso 1</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">693</context>
@@ -5541,7 +5541,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="0c45f582a056fbc79dad006df5e4dd00610f1cbc" datatype="html">
             <source>Rabatt 2</source>
-            <target state="new"></target>
+            <target state="final">Ribasso 2</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">696</context>
@@ -5549,7 +5549,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="44368783c954208540414af33f7e7cd8d61cbc32" datatype="html">
             <source>Rabatt 3</source>
-            <target state="new"></target>
+            <target state="final">Ribasso 3</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">699</context>
@@ -5557,7 +5557,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="68100b866489637f2e1b22b8a30bed34a3bd936b" datatype="html">
             <source>Zahlungsart</source>
-            <target state="new">Zahlungsart</target>
+            <target state="final">Tipo di pagamento</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">705</context>
@@ -5565,7 +5565,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d091d47c09134a710d4feb50ff4459e6423201db" datatype="html">
             <source>G&#xFC;ltig Bis</source>
-            <target state="new">G&#xFC;ltig Bis</target>
+            <target state="final">Valido fino al</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">709</context>
@@ -5577,7 +5577,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="9096dd9bb9fa9eb3101602ed4443473c15d919c0" datatype="html">
             <source>Bank-Nr</source>
-            <target state="new">Bank-Nr</target>
+            <target state="final">Nr. Bancario</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">721</context>
@@ -5585,7 +5585,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="acd26b224807c5e40285404ea90a652cedb0d320" datatype="html">
             <source>Kopie</source>
-            <target state="new">Kopie</target>
+            <target state="final">Copia</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">735</context>
@@ -5593,7 +5593,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="29475aef928f6aa817dfb8b4ee3ef6b1d5dc1a3e" datatype="html">
             <source>Rabatt</source>
-            <target state="new">Rabatt</target>
+            <target state="final">Ribasso</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">755</context>
@@ -5621,7 +5621,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="5d2b99f0bdfb210b0b8db2ef64b1a407e7fd2e89" datatype="html">
             <source>Konto</source>
-            <target state="new">Konto</target>
+            <target state="final">Conto</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">782</context>
@@ -5629,7 +5629,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="6a29acfe7a57babf73ea239d0184d663d673fbbd" datatype="html">
             <source>Kostenstelle</source>
-            <target state="new">Kostenstelle</target>
+            <target state="final">centro di costo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">795</context>
@@ -5637,7 +5637,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="eda0838277daa4775a86e9b08c747922f33c0666" datatype="html">
             <source>Aktion</source>
-            <target state="new">Aktion</target>
+            <target state="final">Azione</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/aboverwaltung.component.html</context>
               <context context-type="linenumber">798</context>
@@ -5646,7 +5646,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           <trans-unit id="e8621f37fc7530966f601c65a54f572e1acba96e" datatype="html">
             <source> M&#xF6;chten Sie diese Adresse auch als Liefer- und Rechnungsadresse &#xFC;bernehmen?
 </source>
-            <target state="new"></target>
+            <target state="final">Desderate impostare questo indirizzo anche come indirizzo di fattura e consegna?</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/adresseuebernehmen-dialog.html</context>
               <context context-type="linenumber">10</context>
@@ -5654,7 +5654,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d01b841df58758ef8baf6c7870b06a5b8fdde40f" datatype="html">
             <source>Nein</source>
-            <target state="new">Nein</target>
+            <target state="final">No</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/adresseuebernehmen-dialog.html</context>
               <context context-type="linenumber">16</context>
@@ -5690,7 +5690,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a77ed7ae4b057db62ba2200a71c41181e366c35c" datatype="html">
             <source>Ja</source>
-            <target state="new">Ja</target>
+            <target state="final">Si</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abodetailcomponents/aboverwaltung/adresseuebernehmen-dialog.html</context>
               <context context-type="linenumber">17</context>
@@ -5726,7 +5726,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="5bba1cd9323797abacbc049aee41242a9822d997" datatype="html">
             <source>Adresse(n)</source>
-            <target state="new"></target>
+            <target state="final">Indirizzo(i)</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abolist/abolist.component.html</context>
               <context context-type="linenumber">14</context>
@@ -5734,7 +5734,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="2da166d408535d10715aeb4816f7c66d8fac2e6e" datatype="html">
             <source>Nur Aktive: Ja</source>
-            <target state="new"></target>
+            <target state="final">Solo attivi: si</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abolist/abolist.component.html</context>
               <context context-type="linenumber">16</context>
@@ -5742,7 +5742,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="c062ce0c9dcc84d0283a90ef47f36c59f3764d34" datatype="html">
             <source>Tel</source>
-            <target state="new"></target>
+            <target state="final">Tel</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/abolist/abolist.component.html</context>
               <context context-type="linenumber">17</context>
@@ -5750,7 +5750,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="3d61537436a15effee27783eeadeea6dbc759f12" datatype="html">
             <source>wird unwiderruflich gel&#xF6;scht.</source>
-            <target state="new">wird unwiderruflich gel&#xF6;scht.</target>
+            <target state="final">viene eliminato definitivamente</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/aboloeschen/aboloeschen-dialog.html</context>
               <context context-type="linenumber">2</context>
@@ -5758,7 +5758,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="1b93f548c81803293bde66795e51af888aed637a" datatype="html">
             <source>trotzdem l&#xF6;schen?</source>
-            <target state="new">trotzdem l&#xF6;schen?</target>
+            <target state="final">cancellare comunque?</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/aboloeschen/aboloeschen-dialog.html</context>
               <context context-type="linenumber">4</context>
@@ -5766,7 +5766,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="dc75033a5238fdc4f462212c847a45ba8018a3fd" datatype="html">
             <source>Download</source>
-            <target state="new"></target>
+            <target state="final">Scarica</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/adresssuche/adresssuche.component.html</context>
               <context context-type="linenumber">13</context>
@@ -5782,7 +5782,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="5be6b0683773f48873a96971d885d94be1fac007" datatype="html">
             <source>(Mit Doppelklick &#xFC;bernehmen)</source>
-            <target state="new"></target>
+            <target state="final">(importare con un doppio click)</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/adresssuche/adresssuche.component.html</context>
               <context context-type="linenumber">17</context>
@@ -5798,7 +5798,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="966dae84da5333d2b74e3cf5b8266f2322fcdc04" datatype="html">
             <source>Andere Suche</source>
-            <target state="new"></target>
+            <target state="final">altra ricerca</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/adresssuche/adresssuche.component.html</context>
               <context context-type="linenumber">24</context>
@@ -5806,7 +5806,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="f6eee4977b2c4d125833490e634a707472cf756b" datatype="html">
             <source>Leere Auswahl</source>
-            <target state="new"></target>
+            <target state="final">Selewzione senza risultati</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/adresssuche/adresssuche.component.html</context>
               <context context-type="linenumber">30</context>
@@ -5822,7 +5822,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="cde60ac959240fc2864512fd2eae694f61910797" datatype="html">
             <source>Beznr</source>
-            <target state="new"></target>
+            <target state="final">Nr. Contatto</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/adresssuche/adresssuche.component.html</context>
               <context context-type="linenumber">47</context>
@@ -5834,7 +5834,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="327f4cb7a4e52a785c0463bd1dab669ca1affeb2" datatype="html">
             <source>Objekt:</source>
-            <target state="new">Objekt:</target>
+            <target state="final">Titolo:</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/articleinfo/articleinfo.component.html</context>
               <context context-type="linenumber">31</context>
@@ -5842,7 +5842,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="422864ca01f2edd882f6b60e2688566965b5bd0d" datatype="html">
             <source>Ausgabe:</source>
-            <target state="new">Ausgabe:</target>
+            <target state="final">Pubblicazione:</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/articleinfo/articleinfo.component.html</context>
               <context context-type="linenumber">38</context>
@@ -5850,7 +5850,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="e7db82b61f20b8b461988cf9504f1c623985d1ad" datatype="html">
             <source>Workflow:</source>
-            <target state="new">Workflow:</target>
+            <target state="final">Workflow:</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/articleinfo/articleinfo.component.html</context>
               <context context-type="linenumber">45</context>
@@ -5858,7 +5858,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="687ab80a3e5d8f490135c1fb9acbbb5530b1a36b" datatype="html">
             <source>Start:</source>
-            <target state="new">Start:</target>
+            <target state="final">Inizio:</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/articleinfo/articleinfo.component.html</context>
               <context context-type="linenumber">52</context>
@@ -5866,7 +5866,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="7c612eb5c5b8b7eb831217ce567e80a9faf268bc" datatype="html">
             <source>Ende:</source>
-            <target state="new">Ende:</target>
+            <target state="final">Fine:</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/articleinfo/articleinfo.component.html</context>
               <context context-type="linenumber">59</context>
@@ -5874,7 +5874,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="f020bc045c710e83a973e7d229f9509653cd8121" datatype="html">
             <source>Verantwortlicher:</source>
-            <target state="new">Verantwortlicher:</target>
+            <target state="final">responsabile:</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/articleinfo/articleinfo.component.html</context>
               <context context-type="linenumber">66</context>
@@ -5882,7 +5882,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="607dda1690d6434aa05a1517e73a394809570a06" datatype="html">
             <source> Bankbeznr </source>
-            <target state="new"></target>
+            <target state="final">Nr. contatto banca</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/auswahltabelle/auswahltabelle.component.html</context>
               <context context-type="linenumber">32</context>
@@ -5890,7 +5890,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="ab1b73a0fb2dd7c3f7d45a8f417efa372b3e2c3f" datatype="html">
             <source> Bankname </source>
-            <target state="new"></target>
+            <target state="final">Nome Banca</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/auswahltabelle/auswahltabelle.component.html</context>
               <context context-type="linenumber">38</context>
@@ -5898,7 +5898,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="8290a3688592d8c69017fe7cf566ad978f8eb16a" datatype="html">
             <source> IBAN </source>
-            <target state="new"></target>
+            <target state="final">IBAN</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/auswahltabelle/auswahltabelle.component.html</context>
               <context context-type="linenumber">44</context>
@@ -5906,7 +5906,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="9ff3ecf04b175d12d51e90a19671d916d6ec6b49" datatype="html">
             <source> Konto </source>
-            <target state="new"></target>
+            <target state="final">Conto</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/auswahltabelle/auswahltabelle.component.html</context>
               <context context-type="linenumber">50</context>
@@ -5918,7 +5918,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="fcbe35c8854cf16e53f475fa5ddb2e8a6f485eba" datatype="html">
             <source> Kontobez </source>
-            <target state="new"></target>
+            <target state="final">Conto def.</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/auswahltabelle/auswahltabelle.component.html</context>
               <context context-type="linenumber">62</context>
@@ -5926,7 +5926,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="325963ce5bb9ba1707f18140f578c1ddaeb61963" datatype="html">
             <source> W&#xE4;hrung </source>
-            <target state="new"></target>
+            <target state="final">Valuta</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/auswahltabelle/auswahltabelle.component.html</context>
               <context context-type="linenumber">68</context>
@@ -5934,7 +5934,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="7a804d6b99738a2fbc33a59f3acb23bba0b81aee" datatype="html">
             <source> Objekt </source>
-            <target state="new"></target>
+            <target state="final">Titolo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/auswahltabelle/auswahltabelle.component.html</context>
               <context context-type="linenumber">74</context>
@@ -5942,7 +5942,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="2ee7b55149c9cce0d509d1e2ace2cfa5d89648ac" datatype="html">
             <source> Obj-Bezeichnung </source>
-            <target state="new"></target>
+            <target state="final">Descrzione Titolo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/auswahltabelle/auswahltabelle.component.html</context>
               <context context-type="linenumber">80</context>
@@ -5950,7 +5950,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="50b7cc334ca659d8ca847395256bdf49874065a2" datatype="html">
             <source> Sprache </source>
-            <target state="new"></target>
+            <target state="final">Lingua</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/auswahltabelle/auswahltabelle.component.html</context>
               <context context-type="linenumber">86</context>
@@ -5958,7 +5958,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="3d775795e69b6c10844d268f9c8c077f018c9212" datatype="html">
             <source> Mengeinheit </source>
-            <target state="new"></target>
+            <target state="final">Quantit&#xE0;</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/auswahltabelle/auswahltabelle.component.html</context>
               <context context-type="linenumber">92</context>
@@ -5966,7 +5966,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="7c550798a8e38d745afbd7b0203e28ae34ae8f4d" datatype="html">
             <source> Bezeichnung </source>
-            <target state="new"></target>
+            <target state="final">Descrizione</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/auswahltabelle/auswahltabelle.component.html</context>
               <context context-type="linenumber">98</context>
@@ -5978,7 +5978,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="f009504446fdc0fd517ac10d40dc5c1fd31fe3cd" datatype="html">
             <source> PalettierID </source>
-            <target state="new"></target>
+            <target state="final"> PalettierID </target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/auswahltabelle/auswahltabelle.component.html</context>
               <context context-type="linenumber">104</context>
@@ -5986,7 +5986,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="6c5bd98388528251c25f0c3cb393cc532d9e3199" datatype="html">
             <source> Teilausgabe </source>
-            <target state="new"></target>
+            <target state="final">Edizione parziale</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/auswahltabelle/auswahltabelle.component.html</context>
               <context context-type="linenumber">110</context>
@@ -5994,7 +5994,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="510eaaf5f0483efb58d8b217b39a766a2e80fe39" datatype="html">
             <source>Codeart</source>
-            <target state="new"></target>
+            <target state="final">Tipo di codice</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
               <context context-type="linenumber">13</context>
@@ -6002,7 +6002,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="374b1832aee099bc990686c7cf4db7ee30a6584e" datatype="html">
             <source>Code-Art</source>
-            <target state="new"></target>
+            <target state="final">Tipo di codice</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
               <context context-type="linenumber">20</context>
@@ -6018,7 +6018,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="1caeb019ae287a584ebea465826845dea26c1a1b" datatype="html">
             <source>Code-Wert</source>
-            <target state="new"></target>
+            <target state="final">Valore Codice</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
               <context context-type="linenumber">23</context>
@@ -6030,7 +6030,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="009e02188f01685c93453866bceff7a4e884e6c5" datatype="html">
             <source>Code-laenge</source>
-            <target state="new"></target>
+            <target state="final">Lunghezza codice</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
               <context context-type="linenumber">38</context>
@@ -6038,7 +6038,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="6f5855530e32f26e0d104bac72de2062a0c5f80b" datatype="html">
             <source>Code-Kz</source>
-            <target state="new"></target>
+            <target state="final">Codice Kz</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
               <context context-type="linenumber">41</context>
@@ -6046,7 +6046,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="d491c5fb7a27a18b3c85da8b83c8b0f2fa53a4f1" datatype="html">
             <source>Code-Text</source>
-            <target state="new"></target>
+            <target state="final">testo Codice</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
               <context context-type="linenumber">49</context>
@@ -6058,7 +6058,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="fe8cfa85f46585b421207f5182bd797459b4e954" datatype="html">
             <source>Code-Text1</source>
-            <target state="new"></target>
+            <target state="final">Testo1-codice</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
               <context context-type="linenumber">58</context>
@@ -6066,7 +6066,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="8b6197a3d4d460c1f7624cbd50251a901fc74535" datatype="html">
             <source>Code-Text2</source>
-            <target state="new"></target>
+            <target state="final">Testo2-codice</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codn-dialog.html</context>
               <context context-type="linenumber">67</context>
@@ -6074,7 +6074,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="479fabd48cae67a01dc0b193062b7513a2a3f994" datatype="html">
             <source>Suchen</source>
-            <target state="new"></target>
+            <target state="final">Ricerca</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
               <context context-type="linenumber">72</context>
@@ -6082,7 +6082,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="e3a419a930a6e3108ff8d708568b4724c38809cc" datatype="html">
             <source>Code-wert</source>
-            <target state="new"></target>
+            <target state="final">valore codice</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
               <context context-type="linenumber">83</context>
@@ -6090,7 +6090,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="238970ad8537e9db328ae9b0a50aaff64cf1e9d8" datatype="html">
             <source>Code-text</source>
-            <target state="new"></target>
+            <target state="final">Testo codice</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
               <context context-type="linenumber">88</context>
@@ -6098,7 +6098,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="c7a1b781231f1fbb5f9e7121dff39f5e1f9ede2f" datatype="html">
             <source>Code-text1</source>
-            <target state="new"></target>
+            <target state="final">Testo1 codice</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
               <context context-type="linenumber">93</context>
@@ -6106,7 +6106,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="5235c6fa1511ef8559e54824c84c248f8e684411" datatype="html">
             <source>Code-text2</source>
-            <target state="new"></target>
+            <target state="final">Testo2 codice</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
               <context context-type="linenumber">98</context>
@@ -6114,7 +6114,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="2f64bc655e605d428d6da6d6bf6d99727422e971" datatype="html">
             <source>Kz</source>
-            <target state="new"></target>
+            <target state="final">Kz</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/codnsucheneu/codnsucheneu.component.html</context>
               <context context-type="linenumber">118</context>
@@ -6122,7 +6122,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="9acc4eba8ab372d7e8f68750b536455a0845f661" datatype="html">
             <source>Todos</source>
-            <target state="new">Todos</target>
+            <target state="final">To-Do</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/detailinfo/detailinfo.component.html</context>
               <context context-type="linenumber">26</context>
@@ -6130,7 +6130,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="2cd8ec494ed960c8b78b9e6ce825aadf814beb07" datatype="html">
             <source>Anh&#xE4;nge</source>
-            <target state="new">Anh&#xE4;nge</target>
+            <target state="final">Allegati</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/docs-and-comments/docs-and-comments.component.html</context>
               <context context-type="linenumber">2</context>
@@ -6142,7 +6142,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="5077a0c6eef0de317afd6ba4388f25b25129c0fe" datatype="html">
             <source>Kommentare</source>
-            <target state="new">Kommentare</target>
+            <target state="final">Note</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/docs-and-comments/docs-and-comments.component.html</context>
               <context context-type="linenumber">48</context>
@@ -6150,7 +6150,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="3a08da066fa2e1fc5f42852d1b72b6830b8ce7de" datatype="html">
             <source>Alle</source>
-            <target state="new">Alle</target>
+            <target state="final">Tutti</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/docs-and-comments/docs-and-comments.component.html</context>
               <context context-type="linenumber">56</context>
@@ -6162,7 +6162,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="f96d273a8e37f6a80a4cb42997b0571a20489e89" datatype="html">
             <source>Kommentieren</source>
-            <target state="new">Kommentieren</target>
+            <target state="final">Aggiungi nota</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/docs-and-comments/docs-and-comments.component.html</context>
               <context context-type="linenumber">75</context>
@@ -6174,7 +6174,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="8cc01f826e350ee09a450c6b3f15ef8b616e8754" datatype="html">
             <source>Kommentar l&#xF6;schen</source>
-            <target state="new">Kommentar l&#xF6;schen</target>
+            <target state="final">Cancella nota</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/docs-and-comments/docs-and-comments.component.html</context>
               <context context-type="linenumber">109</context>
@@ -6186,7 +6186,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="a37ae4db9a71ee5519a7541a951ec26b4b93b544" datatype="html">
             <source>Antworten</source>
-            <target state="new">Antworten</target>
+            <target state="final">Rispondi</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/docs-and-comments/docs-and-comments.component.html</context>
               <context context-type="linenumber">110</context>
@@ -6194,7 +6194,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="f38608ed1a3f1f79dc6e43a9ad88364ffc098c1f" datatype="html">
             <source>Art</source>
-            <target state="new"></target>
+            <target state="final">Tipo</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/mavlcomponents/vorlagendetails/vorlagendetails.component.html</context>
               <context context-type="linenumber">16</context>
@@ -6202,7 +6202,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="f09ad66c1ebf16217ba1a1072be7a98de2d95eac" datatype="html">
             <source>Beschreibung</source>
-            <target state="new"></target>
+            <target state="final">Descrizione</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/mavlcomponents/vorlagendetails/vorlagendetails.component.html</context>
               <context context-type="linenumber">29</context>
@@ -6210,7 +6210,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="c32ddcaa16ad0e3d8d2097ae066af9f1afd9be89" datatype="html">
             <source>Platzhalter</source>
-            <target state="new"></target>
+            <target state="final">Segnaposto</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/mavlcomponents/vorlagendetails/vorlagendetails.component.html</context>
               <context context-type="linenumber">36</context>
@@ -6218,7 +6218,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="1c35df1fd8e00ec4a35d1e0f822b221d0d0cf7be" datatype="html">
             <source>Body-Typ</source>
-            <target state="new"></target>
+            <target state="final">Body-Type</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/mavlcomponents/vorlagendetails/vorlagendetails.component.html</context>
               <context context-type="linenumber">43</context>
@@ -6226,7 +6226,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="8c0d3e308b86963c1cf5043097e31a913c51f885" datatype="html">
             <source>An</source>
-            <target state="new"></target>
+            <target state="final">A</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/mavlcomponents/vorlagendetails/vorlagendetails.component.html</context>
               <context context-type="linenumber">66</context>
@@ -6234,7 +6234,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="6d460f174af0e7ab3f0ee5a6262cd6f414cc0ca3" datatype="html">
             <source>Antwort an</source>
-            <target state="new"></target>
+            <target state="final">Rispondi a</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/mavlcomponents/vorlagendetails/vorlagendetails.component.html</context>
               <context context-type="linenumber">73</context>
@@ -6242,7 +6242,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="fb7f496ac58a3d0855b99e1e175098770c910ed4" datatype="html">
             <source>CC</source>
-            <target state="new"></target>
+            <target state="final">CC</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/mavlcomponents/vorlagendetails/vorlagendetails.component.html</context>
               <context context-type="linenumber">80</context>
@@ -6250,7 +6250,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="62d704aba4e45f8b2a07cd2f8a3dd7038f839b30" datatype="html">
             <source>BCC</source>
-            <target state="new"></target>
+            <target state="final">CCN</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/mavlcomponents/vorlagendetails/vorlagendetails.component.html</context>
               <context context-type="linenumber">87</context>
@@ -6258,7 +6258,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="2995551e65cacf8ae9400fe9e2b288628ad2117c" datatype="html">
             <source>Betreff</source>
-            <target state="new"></target>
+            <target state="final">Oggetto</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/mavlcomponents/vorlagendetails/vorlagendetails.component.html</context>
               <context context-type="linenumber">94</context>
@@ -6266,7 +6266,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="f68815ee1b15639e62c8150bb5bb96383463c830" datatype="html">
             <source> NEU! </source>
-            <target state="new"></target>
+            <target state="final">Nuovo!</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/mavlcomponents/vorlagenliste/vorlagenliste.component.html</context>
               <context context-type="linenumber">30</context>
@@ -6274,7 +6274,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="feabfc384269a35e1f051ef9302a4b5624f3a69a" datatype="html">
             <source>Kopieren</source>
-            <target state="new"></target>
+            <target state="final">Copia</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/mavlcomponents/vorlagentoolbar/vorlagentoolbar.component.html</context>
               <context context-type="linenumber">7</context>
@@ -6282,7 +6282,7 @@ Errore  (net::ERR_INSECURE_RESPONSE).</target>
           </trans-unit>
           <trans-unit id="aa6934ec7638fb78c95eca9e6fc556f71c79fb44" datatype="html">
             <source>Letzte Version</source>
-            <target state="new"></target>
+            <target state="final">Ultima versione</target>
             <context-group purpose="location">
               <context context-type="sourcefile">src/app/tools/other/shared/components/mavlcomponents/vorlagentoolbar/vorlagentoolbar.component.html</context>
               <context context-type="linenumber">17</context>
